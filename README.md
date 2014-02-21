@@ -16,6 +16,7 @@ Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (
 ### Unklare Nutzungsbedingungn
 - [Zahlen, Daten, Fakten für Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung](http://www.muenster.de/stadt/stadtplanung/zahlen.html)
 - [Fahrgastinformationssystem der Stadtwerke Münster](http://www.stadtwerke-muenster.de/fis/)
+- [Mietspiegel Münster 2014](http://www.wohnungsboerse.net/mietspiegel-Muenster/5389)
 
 ### Gesamtdeutschland und Europa
 - [Open Data Index von der OKF](https://index.okfn.org/country/overview/Germany/)
