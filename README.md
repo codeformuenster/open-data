@@ -1,6 +1,6 @@
 # Offene Daten für Münster
 
-Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (westf.) geben. Änderungen werden gerne per Pull Request angenommen
+Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (westf.) geben. Änderungen werden gerne per Pull Request angenommen. Alle Angaben ohne Gewähr.
 
 ### nach Datenquellen
 - [govdata.de](https://www.govdata.de)
@@ -12,6 +12,10 @@ Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (
 - andere Quellen
  - [LODUM](http://lodum.de/) - sehr viele Daten zur Universität Münster. Publikationen, Gebäude, Personen
  - [enviroCar](https://envirocar.org/) - Georeferenzierte Daten zu Autofahrten
+
+### Unklare Nutzungsbedingungn
+- [Zahlen, Daten, Fakten für Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung](http://www.muenster.de/stadt/stadtplanung/zahlen.html)
+- [Fahrgastinformationssystem der Stadtwerke Münster](http://www.stadtwerke-muenster.de/fis/)
 
 ### Gesamtdeutschland und Europa
 - [Open Data Index von der OKF](https://index.okfn.org/country/overview/Germany/)
