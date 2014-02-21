@@ -1,4 +1,4 @@
-# Offene Daten für Münster
+# Offene Daten für Münster in Westfalen (51.9N 7.6E)
 
 Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (westf.) geben. Änderungen werden gerne per Pull Request angenommen. Alle Angaben ohne Gewähr.
 
@@ -15,6 +15,7 @@ Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (
 
 ### Unklare Nutzungsbedingungn
 - [Zahlen, Daten, Fakten für Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung](http://www.muenster.de/stadt/stadtplanung/zahlen.html)
+- [Karten Münster](http://www.muenster.de/stadt/stadtplanung/statistik.html)
 - [Fahrgastinformationssystem der Stadtwerke Münster](http://www.stadtwerke-muenster.de/fis/)
 - [Mietspiegel Münster 2014](http://www.wohnungsboerse.net/mietspiegel-Muenster/5389)
 
