@@ -19,6 +19,7 @@ Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (
 - [Fahrgastinformationssystem der Stadtwerke Münster](http://www.stadtwerke-muenster.de/fis/)
 - [Mietspiegel Münster 2014](http://www.wohnungsboerse.net/mietspiegel-Muenster/5389)
 - [Beliebteste Vornamen in Münster 2007-2013](http://www.stadt-muenster.de/standesamt/geburten/vorname.html)
+- [Münster Karte](http://aa-zoo.de/muenster-map/) Regionen die früher anders genutzt worden sind als heute (kml)
 
 ### Gesamtdeutschland und Europa
 - [Open Data Index von der OKF](https://index.okfn.org/country/overview/Germany/)
