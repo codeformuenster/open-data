@@ -11,7 +11,7 @@ WBZ;Partei;Familienname;Vornamen;Beruf;Geb. Jahr;Geburtsort;PLZ;Straße und Hausn
 10;CDU;Comos-Aldejohann;Gabriele;Richterin am Sozialgericht;1975;Hagen;48153;Kegelskamp 11 a
 11;CDU;Würfel-Elberg;Marc;Dipl.-Pädagoge;1976;Münster;48167;Wilhelm-Holthaus-Weg 12
 12;CDU;Reismann;Karin;Rentnerin;1942;Münster;48151;An den Mühlen 9 a
-13;CDU;H a r t m a nn;Gilbert Hendrik;B a nk k a u f m a nn;1960;Rheda;48145;Mauritz Dahl 4
+13;CDU;Hartmann;Gilbert Hendrik;Bankkaufmann;1960;Rheda;48145;Mauritz Dahl 4
 14;CDU;Wendland;Simone Ingeborg Adelheid;Rechtsanwältin;1963;Münster;48157;Gelmerheide 9
 15;CDU;Bloch;Olaf;Dipl.-Verwaltungswirt;1960;Münster;48165;Guerickeweg 25
 16;CDU;Küppers;Teresa;Dipl.-Sozialpädagogin;1978;Mönchengladbach;48159;Rothenburg 38/39
@@ -38,17 +38,17 @@ WBZ;Partei;Familienname;Vornamen;Beruf;Geb. Jahr;Geburtsort;PLZ;Straße und Hausn
 4;SPD;Winkel;Maria Mechthilde;Angestellte;1959;Münster;48147;Flensburger Str. 21 
 5;SPD;Liekefedt;Hedwig Hildegund;Lehrerin;1961;Wuppertal-Elberfeld;48159;Grevener Str. 136 
 6;SPD;Biel;Martina;Studentin;1988;Gladbeck;48145;Staufenstr. 31 
-7;SPD;Westrup;Maximilian Hubert;MdL-Mitarbeiter  Student;1988;Herdecke;48145;Beckhofstr. 11 
+7;SPD;Westrup;Maximilian Hubert;MdL-Mitarbeiter Student;1988;Herdecke;48145;Beckhofstr. 11 
 8;SPD;Schat;Mustafa;Ausbildungsberater;1962;Samandag/Türkei;48155;Am Lohausbach 41 
 9;SPD;Jung;Michael Ansgar;Lehrer;1976;Münster;48153;Tom-Rink-Str. 11 
 10;SPD;Fastermann;Thomas;Angestellter;1977;Münster;48151;Habichtshöhe 69 
 11;SPD;von Olberg;Robert Axel Johannes;Student;1988;Münster;48151;Sentmaringer Weg 118 
-12;SPD;Kubig-Steltig;Gabriele Margarete Maria;Betriebswirtin  selbständig;1957;Münster;48151;Schmidlinstr. 16A 
+12;SPD;Kubig-Steltig;Gabriele Margarete Maria;Betriebswirtin selbständig;1957;Münster;48151;Schmidlinstr. 16A 
 13;SPD;Schulze Wintzler;Anne Helene;Verbraucherberaterin;1965;Nottuln;48153;Düesbergweg 64 
 14;SPD;Kollmann;Thomas;Geschäftsführer;1959;Münster;48159;Hasenbusch 33B 
 15;SPD;Kleyboldt;Michael Alfons;Lehrer;1951;Ahaus;48159;Idenbrockweg 173 
 16;SPD;Köhnke;Katharina;Studentin;1994;Frankenberg;48157;Königsberger Str. 132 
-17;SPD;Dauskardt;Michael Eugen;Dipl.-Ing.,  Architekt,  Ltd. LBauDir.;1954;Bottrop;48157;Willingrott 87 
+17;SPD;Dauskardt;Michael Eugen;Dipl.-Ing., Architekt, Ltd. LBauDir.;1954;Bottrop;48157;Willingrott 87 
 18;SPD;Steinmann;Ludger;Dipl.-Geograf & Dipl.-Umweltwissenschaftler;1967;Datteln;48157;Willingrott 67
 1;GRÜNE;Marczinkowski;Thomas;Fraktionsgeschäftsführer;1954;Berlin-Tempelhof;48143;Spiekerhof 12 
 2;GRÜNE;Nonhoff;Stephan Thomas;Lehrer;1962;Münster;48149;Gertrudenstr. 25a 
@@ -125,7 +125,7 @@ WBZ;Partei;Familienname;Vornamen;Beruf;Geb. Jahr;Geburtsort;PLZ;Straße und Hausn
 7;DIE LINKE;Meczele;Mathias;Mathematiker;1979;Oberhausen;48145;Heisstrasse 10 
 8;DIE LINKE;Wischnewski;Heiko;Dipl.-Ingenieur;1969;Bad Oeynhausen;48155;Wolbecker Str. 140 
 9;DIE LINKE;Freienhofer;Jonas;Student;1990;Kamen;48155;Bremer Platz 3 
-10;DIE LINKE;Bohlsen;Fokke  Meinhard;Angestellter;1965;Barge;48153;Friedrich-Ebert-Str. 29A 
+10;DIE LINKE;Bohlsen;Fokke Meinhard;Angestellter;1965;Barge;48153;Friedrich-Ebert-Str. 29A 
 11;DIE LINKE;Berning;Jörg;Politikwissenschaftler;1975;Münster;48151;Oberschlesier Str. 16 
 12;DIE LINKE;Giovanazzi;Carmen Angelica;Studentin;1991;Lörrach;48145;Warendorfer Str. 93 
 13;DIE LINKE;Schmitz;Karsten;Referendar;1970;Köln;48153;Friedrich-Ebert-Str. 150 
@@ -170,7 +170,7 @@ WBZ;Partei;Familienname;Vornamen;Beruf;Geb. Jahr;Geburtsort;PLZ;Straße und Hausn
 19;UWG-MS;Gosing;Peter Paul Conrad;Kaufmann;1948;Münster;48155;Merschkamp 12 
 20;UWG-MS;Tröltzsch;Herbert Alwin;Rentner;1949;Zeitz;48167;Gustav-Tweer-Weg 18 
 21;UWG-MS;Schürjann;Birgit Anna Annelise;Verwaltungsangestellte;1968;Münster;48161;Hägerfeld 4 
-22;UWG-MS;Tröltzsch;Monika Maria;Rentnerin;1943;Gleiwitz;48167;Gustav-Tweer-Weg  18 
+22;UWG-MS;Tröltzsch;Monika Maria;Rentnerin;1943;Gleiwitz;48167;Gustav-Tweer-Weg 18 
 23;UWG-MS;El Hairan;Mohamed Yassine;Maschinenbauer;1982;Tanger/Marokko;48161;Eichenweg 66 
 24;UWG-MS;Lanwehr;Klaus Hermann;Polizeibeamter;1959;Münster;48165;Theodor-Storm-Str. 13 
 25;UWG-MS;Scharfenberger;Martin Hubert Maria;Journalist;1963;Hagen;48149;Horstmarer Landweg 125 
@@ -179,7 +179,7 @@ WBZ;Partei;Familienname;Vornamen;Beruf;Geb. Jahr;Geburtsort;PLZ;Straße und Hausn
 28;UWG-MS;Blankenstein;Ursula Elisabeth ;Sekretärin;1943;Lengerich;48161;Hägerfeld 4 
 29;UWG-MS;Rautenbach;Horst Walter;Kaufmann;1951;Münster;48161;Könemannstr. 13 
 30;UWG-MS;Dr. Kühne;Eckehard;Pensionär;1938;Berlin;48149;Philippistr. 11 
-31;UWG-MS;Schmitz;Burckhard  Walter;Pensionär;1946;Langenfeld/Rhld.;48161;Schmitthausweg 44 
+31;UWG-MS;Schmitz;Burckhard Walter;Pensionär;1946;Langenfeld/Rhld.;48161;Schmitthausweg 44 
 32;UWG-MS;Jacobsmeyer;Daniel Franz;Rechtsanwalt;1968;Telgte;48161;Asbeckweg 83 
 33;UWG-MS;Elferich;Oliver;Jurist;1970;Münster;48161;Hägerstr. 231
 1;PIRATEN;Kroos;Angela;Schauwerbegestalterin;1979;Münster;48155;Ewaldistr. 18 
