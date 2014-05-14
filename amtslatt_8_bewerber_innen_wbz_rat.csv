@@ -1,0 +1,284 @@
+WBZ;Partei;Familienname;Vornamen;Beruf;Geb. Jahr;Geburtsort;PLZ;Straße und Hausnummer
+1;CDU;Dr. Erber;Dietmar;Dipl.-Chemiker;1967;Sögel;48143;Klosterstr. 10
+2;CDU;Dreßen;Olaf;Rechtsanwalt;1967;Münster;48143;Ludgeristr. 57
+3;CDU;Baumann;Frank;Programmierer;1965;Münster;48147;Wichernstr. 7
+4;CDU;Loschelder;Christel Helene;Erzieherin, Traumapädagogin;1957;Wesel;48157;Robert-Blum-Str. 3
+5;CDU;Wolber;Jan-Christoph Maria;Student der Rechtswissenschaften;1983;Münster;48155;Soester Str. 21
+6;CDU;Leiße;Jan Matthias;Immobilienmakler;1978;Brilon;48145;Salzburgweg 8
+7;CDU;Heinemann;Jens Christian;Office Manager/Büroleiter;1981;Herne;48155;Hamburger Str. 6
+8;CDU;Drüge;Edgar Heinz;Lehrer i. R.;1942;Münster;48145;Manfred-v.-Richthofen-Str. 68
+9;CDU;Dr. Weikert;Wolfgang Wilhelm Oskar;Geschäftsführer;1947;Lengerich;48147;Alsenstr. 4 a
+10;CDU;Comos-Aldejohann;Gabriele;Richterin am Sozialgericht;1975;Hagen;48153;Kegelskamp 11 a
+11;CDU;Würfel-Elberg;Marc;Dipl.-Pädagoge;1976;Münster;48167;Wilhelm-Holthaus-Weg 12
+12;CDU;Reismann;Karin;Rentnerin;1942;Münster;48151;An den Mühlen 9 a
+13;CDU;H a r t m a nn;Gilbert Hendrik;B a nk k a u f m a nn;1960;Rheda;48145;Mauritz Dahl 4
+14;CDU;Wendland;Simone Ingeborg Adelheid;Rechtsanwältin;1963;Münster;48157;Gelmerheide 9
+15;CDU;Bloch;Olaf;Dipl.-Verwaltungswirt;1960;Münster;48165;Guerickeweg 25
+16;CDU;Küppers;Teresa;Dipl.-Sozialpädagogin;1978;Mönchengladbach;48159;Rothenburg 38/39
+17;CDU;Kleine-Borgmann;Bruno Otto Wilhelm;Dipl.-Biologe;1948;Essen;48157;Gelmerheide 70
+18;CDU;Wenzel;Manfred Gunther Marc ;Elektrotechnik-Meister/Projektleiter;1973;Münster;48157;Kerkschlag 13
+19;CDU;von Göwels;Walter;Dipl.-Kaufmann;1964;Oberhausen;48155;Honebachaue 64
+20;CDU;Nicklas;Andreas Heinrich;Rechtsanwalt;1965;Münster;48167;Delstrup 8 a
+21;CDU;Beitelhoff;Horst Karl;Groß- u. Außenhandelskaufmann (selbst.);1965;Münster;48167;Mühlendamm 1
+22;CDU;Buddenbäumer;Heinz Georg;Landwirt;1953;Wolbeck j. Münster;48167;Hiltruper Str. 93
+23;CDU;Neumann;Hans Bruno;Dachdeckermeister (selbst.);1953;St. Mauritz j. Münster;48153;Drachterstr. 15 a
+24;CDU;Berding ;Georg ;Dipl.-Volkswirt i. R. ;1949;Ahaus ;48165;Krokusweg 5 
+25;CDU;Leschniok ;Stefan ;Rechtsanwalt ;1969;Münster ;48165;An der Alten Kirche 93 
+26;CDU;Weber ;Stefan ;IT-Unternehmensberater ;1973;Hiltrup j. Münster ;48163;Ottmarsbocholter Str. 117 b 
+27;CDU;Gotthal ;Sven ;Leitender Angestellter ;1983;Münster ;48163;In der Weede 74 
+28;CDU;Schliemann ;Josef ;Gemeindedirektor a. D. ;1946;Dolnik (Schönthal) ;48163;Mecklenbecker Str. 431 
+29;CDU;Stähler ;Angela ;Hausfrau ;1966;Münster ;48161;Roxeler Str. 561 
+30;CDU;Börgel ;Peter Laurenz ;Bauunternehmer ;1973;Ibbenbüren ;48149;Scheffer-Boichorst-Str. 40 a 
+31;CDU;Halberstadt ;Richard Michael ;Industriebuchbinder i. R. ;1950;Ostbevern ;48143;Engelstr. 35 
+32;CDU;Neuhaus ;Mechthild Ida ;Oberstudienrätin ;1958;Münster ;48149;Wasserweg 160 
+33;CDU;von den Berg;Dieter August;Bereichsdirektor i. R.;1946;Ahlen ;48161;Adelword 14
+1;SPD;Rentzsch;Christina Franziska Regina ;Doktorandin und Projektmitarbeiterin ;1982;Köln;48147;Stettiner Str. 5 
+2;SPD;Jäger;Cornelia;Rechtsreferendarin beim Land NRW;1985;Bochum;48147;Siverdesstr. 7 
+3;SPD;Tyrell;Georg Franz;Busfahrer/Reiseleiter;1972;Liesborn;48147;Kanalstr. 44 
+4;SPD;Winkel;Maria Mechthilde;Angestellte;1959;Münster;48147;Flensburger Str. 21 
+5;SPD;Liekefedt;Hedwig Hildegund;Lehrerin;1961;Wuppertal-Elberfeld;48159;Grevener Str. 136 
+6;SPD;Biel;Martina;Studentin;1988;Gladbeck;48145;Staufenstr. 31 
+7;SPD;Westrup;Maximilian Hubert;MdL-Mitarbeiter  Student;1988;Herdecke;48145;Beckhofstr. 11 
+8;SPD;Schat;Mustafa;Ausbildungsberater;1962;Samandag/Türkei;48155;Am Lohausbach 41 
+9;SPD;Jung;Michael Ansgar;Lehrer;1976;Münster;48153;Tom-Rink-Str. 11 
+10;SPD;Fastermann;Thomas;Angestellter;1977;Münster;48151;Habichtshöhe 69 
+11;SPD;von Olberg;Robert Axel Johannes;Student;1988;Münster;48151;Sentmaringer Weg 118 
+12;SPD;Kubig-Steltig;Gabriele Margarete Maria;Betriebswirtin  selbständig;1957;Münster;48151;Schmidlinstr. 16A 
+13;SPD;Schulze Wintzler;Anne Helene;Verbraucherberaterin;1965;Nottuln;48153;Düesbergweg 64 
+14;SPD;Kollmann;Thomas;Geschäftsführer;1959;Münster;48159;Hasenbusch 33B 
+15;SPD;Kleyboldt;Michael Alfons;Lehrer;1951;Ahaus;48159;Idenbrockweg 173 
+16;SPD;Köhnke;Katharina;Studentin;1994;Frankenberg;48157;Königsberger Str. 132 
+17;SPD;Dauskardt;Michael Eugen;Dipl.-Ing.,  Architekt,  Ltd. LBauDir.;1954;Bottrop;48157;Willingrott 87 
+18;SPD;Steinmann;Ludger;Dipl.-Geograf & Dipl.-Umweltwissenschaftler;1967;Datteln;48157;Willingrott 67
+1;GRÜNE;Marczinkowski;Thomas;Fraktionsgeschäftsführer;1954;Berlin-Tempelhof;48143;Spiekerhof 12 
+2;GRÜNE;Nonhoff;Stephan Thomas;Lehrer;1962;Münster;48149;Gertrudenstr. 25a 
+3;GRÜNE;Reiners;Otto Wilhelm Maria;Dipl.-Betriebsw./Dipl.-Oectr.;1962;Aschendorf j. Papenburg ;48153;Georgstr. 6 
+4;GRÜNE;Rostek;Jörg;Student, Markthändler;1981;Buchen (Odenwald);48145;Warendorfer Str. 159 
+5;GRÜNE;Köhn;Raimund;Rentner;1962;Marl;48153;Graelstr. 21a 
+6;GRÜNE;Dähne;Susanne;Angestellte;1966;Sindelfingen;48147;Thomas-Morus-Weg 34 
+7;GRÜNE;Bennink;Helga Zwanette;Dipl.-Geologin;1962;Emlichheim;48145;Heisstr. 8 
+8;GRÜNE;Naegels;Anne Maria;Referendarin;1980;Willich;48155;Schillerstr. 169 
+9;GRÜNE;Schipmann;Johannes Ludwig;Angestellter;1960;Papenburg/Ems;48155;Hamburger Str. 8 
+10;GRÜNE;Peters;Carsten Dieter;Geschäftsführer;1974;Ibbenbüren;48165;Eibenweg 13 
+11;GRÜNE;Kattentidt;Christoph Felix;Sozialarbeiter;1974;Frankfurt a. M.;48151;Habichtshöhe 11 
+12;GRÜNE;Rohleder;Tim;wissenschaftlicher Mitarbeiter;1975;Gelsenkirchen;48151;Averkampstr. 1 
+13;GRÜNE;Wölter;Harald Rainer;wissenschaftlicher Mitarbeiter;1953;Hamburg;48153;Dahlweg 64 
+14;GRÜNE;Rosenau;Klaus;Lehrer am Berufskolleg;1966;Bremervörde;48149;Mariental. 34 
+15;GRÜNE;Guddorf;Dirk Bernhard Ludwig;Dipl.-Sozialarbeiter;1969;Harderberg j. GM-Hütte ;48159;Von-Einem-Str. 19 
+16;GRÜNE;Schonhoff;Udo Hermann;Dipl.-Sozialpädagoge;1961;Rheine;48151;Oberschlesier Str. 110 
+17;GRÜNE;Klas;Heribert;Leiter Stadtmarketing Stadt Ahlen;1949;Herten;48149;Marientalstr. 34 
+18;GRÜNE;Sellerberg;Meinolf;Mitarbeiter MdL;1957;Erwitte;48157;Reinerskamp 58 
+19;GRÜNE;Möltgen;Jörn Bernd;Geograph;1969;Köln;48149;Wasserweg 193 
+20;GRÜNE;Borchert;Rainer;Biologe und Geoinformatiker;1958;Melle;48167;Wiegandweg 61 
+21;GRÜNE;Wimmer;Dirk;Veranstaltungstechniker;1977;Münster;48155;Am Hawerkamp 6 
+22;GRÜNE;Schulz;Christine;Fraktionsgeschäftsführerin;1964;Herne;48167;Josef-Sulaweck-Weg 15 
+23;GRÜNE;Neubert;Karl-Heinz Kaspar;Lehrer;1950;Iphofen;48147;Kinderhauser Str. 16 
+24;GRÜNE;Mai;Peter;Betriebsrat;1959;Paderborn;48145;Warendorfer Str. 159 
+25;GRÜNE;Farwick-Hajek;Angelika Elisabeth Josefine;Industriekauffrau;1958;Hiltrup;48165;Max-Winkelmann-Str. 8 
+26;GRÜNE;Tovar;Ludger Josef;Lehrer (Studienrat);1957;Ahlen;48153;Olfersstr. 2
+27;GRÜNE;Pallas;Anke Susanne Frieda Marie;PTA;1961;Münster;48159;Rigaweg 4 
+28;GRÜNE;Joksch;Gerhard Alfred August;Stadtplaner;1951;Clausthal-Zellerfeld;48145;Zumsandestr. 31 
+29;GRÜNE;von Schoenebeck;Brigitte Christine;Fraktionsgeschäftsführerin ;1953;Paderborn;48161;Hansellerstr. 100 
+30;GRÜNE;Scholz;Reinhard Wilhelm Rudolf ;Rechtsanwalt;1952;Borken;48149;Auf dem Draun 73 
+31;GRÜNE;Bleker;Kai;Lehrer ;1971;Gelsenkirchen;48161;Ahausweg 16 
+32;GRÜNE;Nachtwei;Winfried Maria;MdB a. D.;1946;Wulfen;48161;Nordhornstr. 51 
+33;GRÜNE;Kuschewski;Karina Maria Theresia;Sozialarbeiterin;1951;Essen;48161;Ernst-Wiechert-Str. 57
+1;FDP;Henn;Daniel;Controller;1980;Regensburg;48143;Magdalenenstr. 18 
+2;FDP;Reuter;Jürgen Willi;Architekt;1953;Delbrück;48147;Johanne-Walhorn-Weg 19 
+3;FDP;Jauch;Frank Christoph Emanuel Walter ;selbstständiger Kaufmann;1950;München;48149;Studtstr. 43 
+4;FDP;Gerhardy;Martin;Fraktionsgeschäftsführer, Jurist;1965;Osterode am Harz;48147;Tannenbergstr. 28 
+5;FDP;Schulze Horn;Gisela Charlotte;Gymnastiklehrerin;1946;Neustadt;48147;Wibbeltstr. 36 
+6;FDP;Herman;Michael David;Makler;1980;Loslau;48143;Am Stadtgraben 41 
+7;FDP;Mayweg;Bernd;Finanzbeamter;1960;Dortmund;48155;Schillerstr. 84 
+8;FDP;Dr. Herold;Sebastian;Diplom-Volkswirt;1977;Hamm;48147;Eckenerstr. 7 
+9;FDP;Lenski;Jens-Ulrich;Jurist, Rechtsanwalt;1983;Gelsenkirchen;48153;Graelstr. 27 
+10;FDP;Schaffel;Christopher;Student;1991;Remscheid;48151;Mierendorffstr. 35 
+11;FDP;Grönefeld;Claudia;Referentin Öffentlichkeitsarbeit;1974;Burgsteinfurt j. Steinfurt;48151;Scharnhorststr. 25 
+12;FDP;Nüsing;Guido Michael;kaufmännischer Angestellter;1962;Münster;48151;Körnerstr. 15 
+13;FDP;Berens;Jörg;Referent Öffentlichkeitsarbeit;1979;Duisburg;48149;Marientalstr. 24 
+14;FDP;Weßeling;Kim Marc Alexander;Selbstständiger;1974;Münster;48159;Koburger Weg 7 
+15;FDP;Miething;Johannes Bruce;Bogenmacher;1974;Freiburg i. B.;48147;Rumphorstweg 27 
+16;FDP;Söhlke;Felix;Rechtsanwalt a. D.;1937;Gaddenbaum j. Bielefeld ;48157;Görlitzer Str. 88a 
+17;FDP;Jasper;Hans-Henning;Ltd. Regierungsschuldirektor a. D.;1944;Osnabrück;48157;Alfersheide 67 
+18;FDP;Varnhagen;Hans Josef;Dachdeckermeister;1944;Fröndenberg;48157;Bünkamp 84 
+19;FDP;Moths;Kurt Walter;Lehrer;1952;Münster;48155;Im Drostebusch 8 
+20;FDP;Uhlenbrock;Dietmar;KFZ-Meister;1959;Münster;48167;Homannstr. 12 
+21;FDP;Schriek;Willi Max;Pensionär;1943;Albersloh j. Sendenhorst;48167;Silberbrink 29 
+22;FDP;Götting;Heinrich;Kaufmann;1949;Telgte;48167;Twenhövenweg 36 
+23;FDP;Theißing;Klaus Clemens;Selbstständiger;1968;Münster;48165;Vennheideweg 43a 
+24;FDP;Aldejohann;Heribert Wilfried;Steuerberater;1952;Münster;48165;Hölderlinweg 12 
+25;FDP;Eckervogt;Ulrich Johannes;Flachdruckmeister;1952;Münster;48165;Nisinghoverweg 21 
+26;FDP;Schäpers;Ralf;Industriekaufmann;1967;Hiltrup j. Münster;48165;Westfalenstr. 216 
+27;FDP;Kentrup;Harro Michael;Steuerberater;1949;Borgholz;48163;Am Wäldchen 13 
+28;FDP;Rasche;Guido Matthias Maria;Rechtsanwalt;1963;Bochum;48161;Buschkamp 8 
+29;FDP;Koch-Tölken;Peter Tölke Alexander;Kaufmann;1954;Oldenburg i. O.;48161;Goldaper Str. 15 
+30;FDP;Prof. Dr. Poll;Kurt Gerhard;emeritierter Professor;1930;Bork j. Selm;48149;Schlüterstr. 6 
+31;FDP;Wübken;Sandra;Medienkauffrau Digital & Print;1971;Bocholt;48161;Borkenfeld 253
+32;FDP;Möllemann-Appelhoff ;Karola Maria;Studienrätin i. R.;1949;Recklinghausen;48161;Coesfeldweg 59 
+33;FDP;Dr. Obst;Karin;Oberstudienrätin;1951;Marl;48161;Am Kalthof 4
+1;DIE LINKE;Sagel;Rüdiger;Dipl.-Ingenieur;1955;Lünen;48143;Schützenstr. 7 
+2;DIE LINKE;Hermanns;Matthias Michael;Rechtsanwalt;1970;Karlsruhe;48149;Hedwigstr. 2 
+3;DIE LINKE;Scholz;Martin;Lehrer;1963;Metelen;48147;Rudolf-von-Langen-Str. 45 
+4;DIE LINKE;Zelle;Johanna;Studentin;1993;Bissendorf;48149;Steinfurter Str. 116 
+5;DIE LINKE;Jordan;Kerstin;Mitarbeiterin Arzneimittelgroßhandel;1969;Hannover;48159;Fresnostr. 85 
+6;DIE LINKE;Fürup;Tim;Student;1983;Ankum;48155;Hansaring 16 
+7;DIE LINKE;Meczele;Mathias;Mathematiker;1979;Oberhausen;48145;Heisstrasse 10 
+8;DIE LINKE;Wischnewski;Heiko;Dipl.-Ingenieur;1969;Bad Oeynhausen;48155;Wolbecker Str. 140 
+9;DIE LINKE;Freienhofer;Jonas;Student;1990;Kamen;48155;Bremer Platz 3 
+10;DIE LINKE;Bohlsen;Fokke  Meinhard;Angestellter;1965;Barge;48153;Friedrich-Ebert-Str. 29A 
+11;DIE LINKE;Berning;Jörg;Politikwissenschaftler;1975;Münster;48151;Oberschlesier Str. 16 
+12;DIE LINKE;Giovanazzi;Carmen Angelica;Studentin;1991;Lörrach;48145;Warendorfer Str. 93 
+13;DIE LINKE;Schmitz;Karsten;Referendar;1970;Köln;48153;Friedrich-Ebert-Str. 150 
+14;DIE LINKE;Borgmann;Ernst-Gerd;Zahnarzt;1950;Lünen;48157;Windbreede 35 
+15;DIE LINKE;Siewering;Stephan Gustav;Straßenwärter;1966;Münster;48159;Diesterwegstr. 63 
+16;DIE LINKE;Schimpf;Frank Walter;Selbstständiger Hausmeisterservice;1964;Münster;48157;Dachsleite 95 
+17;DIE LINKE;Kirgil;Fatma;Dolmetscherin;1973;Suruc;48149;Steinfurter Str. 52 
+18;DIE LINKE;Beck;Andreas Markus;Fachreferent Sozialwirtschaft;1980;Marburg;48157;Am Eschkamp 6 
+19;DIE LINKE;Zantow;Florian;Student;1990;Berlin;48153;Friedrich-Ebert-Str. 24 
+20;DIE LINKE;Laug;Andreas;Informatiker;1976;Beverungen;48167;Woermannweg 12 
+21;DIE LINKE;Atalan;Türkan;Kosmetikerin;1974;Midyat;48165;Böttcherstr. 13 A 
+22;DIE LINKE;Hochberger;Lukas Laurin;Student;1990;Ostercappeln;48155;Bremer Platz 3 
+23;DIE LINKE;Hort;Lilia;Gestaltungstechnische Assistentin;1987;Orenburg;48149;Steinfurter Str. 120 
+24;DIE LINKE;Zdebel;Hubertus Josef;Journalist;1954;Elten;48165;Konsul-Schencking-Str. 2 
+25;DIE LINKE;Philipp;Ortrud Merlinde;Geschäftsführerin;1956;Karlsruhe;48165;Konsul-Schencking-Str. 2
+26;DIE LINKE;Atalan;Ali;Sozialwissenschaftler;1968;Güven;48165;Böttcherstr. 13 A 
+27;DIE LINKE;Münsterjohann;Ursula Edeltraud Maria;Soziologin;1964;Osnabrück;48151;Niesingstr. 49 
+28;DIE LINKE;Buchmann;Frederik;Chemisch-technischer Assistent;1994;Münster;48151;Lange Ossenbeck 9 
+29;DIE LINKE;Scherzinger;Aaron;Student;1984;Pforzheim;48151;Geiststr. 19A 
+30;DIE LINKE;Götze;Olaf;Student;1979;Berlin;48159;Gasselstiege 334 
+31;DIE LINKE;Draeger;Hannes;Angestellter;1983;Berlin;48161;Heekweg 14 
+32;DIE LINKE;Körner;Benjamin;Student;1987;Detmold;48161;Stadtlohnweg 11 
+33;DIE LINKE;Dormann;Lou Anton;Student;1994;Berlin;48163;Schürbusch 103
+1;UWG-MS;Pfau;Berthild Anna;Pfarrsekretärin;1954;Münster;48147;Vinzenzweg 21 
+2;UWG-MS;Pfau;Markus Albert;Einzelhandelskaufmann;1981;Münster;48143;Bült 10 
+3;UWG-MS;Niewöhner;Anton Hans Elmar;Pensionär;1928;Schmiedeberg;48161;Hägerfeld 7 
+4;UWG-MS;Westhues;Stefanie Annabel;Einzelhandels-Kauffrau;1977;Münster;48157;Sudmühlenstr. 140
+5;UWG-MS;Brünen;Norbert Bernhard;IT-Referent;1959;Wettringen;48149;Mausbachstr. 47 
+6;UWG-MS;Leidinger;Sebastian Albert Antonius;Diplom-Ökonom;1966;Warendorf;48147;Telemannstr. 16 
+7;UWG-MS;Raffloer;Uwe Heinz Albert;Architekt;1958;Münster;48147;Enkingweg 21 
+8;UWG-MS;Sposny;Wolfgang Ernst;Studiendirektor a. D.;1949;Rodalben;48155;Merschkamp 14 
+9;UWG-MS;Remy;Rolf Karl Hans;Bauingenieur;1941;Salzburg;48151;Am Kanonengraben 7 
+10;UWG-MS;Köster;Klaus Joachim;Angestellter;1961;Münster;48159;Meinertzstr. 3 
+11;UWG-MS;Otto;Martin Karl Hugo;Polizeibeamter;1959;Coesfeld;48147;Humperdinckstr. 30 
+12;UWG-MS;Blankenstein;Bernd Walter Ernst;Rentner;1939;Königsberg;48161;Hägerfeld 4 
+13;UWG-MS;Schemann;Damaris;Kunsthistorikerin;1955;Wuppertal;48151;Grevingstr. 7 
+14;UWG-MS;Wolff;Detlef Klaus Willy;Bankkaufmann;1951;Perleberg;48159;Westhoffstr. 134 
+15;UWG-MS;Biedenbacher;Tülay;Buchhalterin;1955;Istanbul;48159;Sprakeler Str. 46 
+16;UWG-MS;Thal;Siegmar;Maschinenbau-Ing.;1949;Münster;48159;Langebusch 21 
+17;UWG-MS;Pfau;Fritz Jürgen;Polizeibeamter;1956;Stuttgart;48147;Vinzenzweg 21 
+18;UWG-MS;Römheld;Steffen Adrian;Jurist;1978;Mainz;48155;Merschkamp 14 
+19;UWG-MS;Gosing;Peter Paul Conrad;Kaufmann;1948;Münster;48155;Merschkamp 12 
+20;UWG-MS;Tröltzsch;Herbert Alwin;Rentner;1949;Zeitz;48167;Gustav-Tweer-Weg 18 
+21;UWG-MS;Schürjann;Birgit Anna Annelise;Verwaltungsangestellte;1968;Münster;48161;Hägerfeld 4 
+22;UWG-MS;Tröltzsch;Monika Maria;Rentnerin;1943;Gleiwitz;48167;Gustav-Tweer-Weg  18 
+23;UWG-MS;El Hairan;Mohamed Yassine;Maschinenbauer;1982;Tanger/Marokko;48161;Eichenweg 66 
+24;UWG-MS;Lanwehr;Klaus Hermann;Polizeibeamter;1959;Münster;48165;Theodor-Storm-Str. 13 
+25;UWG-MS;Scharfenberger;Martin Hubert Maria;Journalist;1963;Hagen;48149;Horstmarer Landweg 125 
+26;UWG-MS;Lanwehr;Mechtild Hannelore;selbständig;1961;Münster;48165;Theodor-Storm-Str. 13 
+27;UWG-MS;Kühne;Gisela;Rentnerin;1937;Gelsenkirchen;48149;Philippistr. 11 
+28;UWG-MS;Blankenstein;Ursula Elisabeth ;Sekretärin;1943;Lengerich;48161;Hägerfeld 4 
+29;UWG-MS;Rautenbach;Horst Walter;Kaufmann;1951;Münster;48161;Könemannstr. 13 
+30;UWG-MS;Dr. Kühne;Eckehard;Pensionär;1938;Berlin;48149;Philippistr. 11 
+31;UWG-MS;Schmitz;Burckhard  Walter;Pensionär;1946;Langenfeld/Rhld.;48161;Schmitthausweg 44 
+32;UWG-MS;Jacobsmeyer;Daniel Franz;Rechtsanwalt;1968;Telgte;48161;Asbeckweg 83 
+33;UWG-MS;Elferich;Oliver;Jurist;1970;Münster;48161;Hägerstr. 231
+1;PIRATEN;Kroos;Angela;Schauwerbegestalterin;1979;Münster;48155;Ewaldistr. 18 
+2;PIRATEN;Gutsch;Martin;Kaufmann im Gesundheitswesen;1976;Greven;48149;Raesfeldstr. 74 
+3;PIRATEN;Raber;Sabine;Rentnerin;1960;Gelsenkirchen;48161;Von-Schonebeck-Ring 71 
+4;PIRATEN;Vill;Matthias Johann;Student;1987;Münster;48147;Kolpingstr. 28 
+5;PIRATEN;Forster;Christian;Wirtschaftsinformatiker;1982;Essen;48159;Gasselstiege 52 
+6;PIRATEN;Philippski;Hedwig;Rentnerin;1944;Oelde;48147;Kinderhauser Str. 231 
+7;PIRATEN;Philippski;Karl-Heinz;Wachmann;1942;Danzig;48147;Kinderhauser Str. 231 
+8;PIRATEN;Raber;Svenja Denise;Auszubildende;1991;Münster;48157;In der Stroth 14 
+9;PIRATEN;Münck;Niels-Arne;Biologe;1980;Münster;48143;Achtermannstr. 23 
+10;PIRATEN;Schmanck;Johannes Carl Heinrich;Selbständig;1971;Werne;48163;Rinkerodeweg 30 
+11;PIRATEN;Schlaffke;Thomas;Beamter;1980;Borken;48151;Goebenstr. 63 
+12;PIRATEN;Helkenberg;Simon Malte;Schüler;1996;Münster;48163;An der Beeke 172 
+13;PIRATEN;Wunder;Nico;Schüler;1995;Neustrelitz;48153;Borsigweg 8 
+14;PIRATEN;Philippski;Heiko;Wachmann;1973;Havixbeck;48147;Nienkamp 20 
+15;PIRATEN;Högemann;Simon;Bauingenieur;1988;Münster;48149;Althausweg 48 
+16;PIRATEN;Horstmann;Peter;Student;1973;Arnsberg;48147;Hoher Heckenweg 143 
+17;PIRATEN;Kroos;Dorothee Elisabeth;Sozialarbeiterin;1954;Münster;48155;Maikottenweg 9 
+18;PIRATEN;Hannig;Karsten;Beamter;1965;Bottrop;48157;Nieland 36 
+19;PIRATEN;Hemecker;Peter Thomas;Kaufmann;1956;Iserlohn;48167;Bermestr. 73 
+20;PIRATEN;Raber;Nadine Carolin Sasa;Industriekauffrau;1986;Münster;48157;Königsberger Str. 7 
+21;PIRATEN;Hemecker;Birgit Elisabeth;Kauffrau;1961;Münster;48167;Bermestr. 73 
+22;PIRATEN;Regenbrecht;Veronika;Auszubildende Gesundheits- und Krankenpflegerin;1993;Münster;48155;Bremer Str. 38 
+23;PIRATEN;Kroos;Sebastian;Controller;1975;Münster;48155;Ewaldistr. 18 
+24;PIRATEN;Walter;Thomas Peter;Fachinformatiker;1974;Osnabrück;48159;Ohmweg 8 
+25;PIRATEN;Daly;John William;Student;1976;Bremen;48145;Zumsandestr. 17 
+26;PIRATEN;Jochmann;Michael;freiberufl. Ingenieur –Umwelttechnik;1973;Dissen a. TW.;48151;Oberschlesier Str. 111 
+27;PIRATEN;Rosenfeld;Marcus;Student;1983;Coesfeld;48155;Hansaring 7 
+28;PIRATEN;Rapatinski;Konstantin Jordan Paul;Rechtsanwalt;1969;Münster;48159;Kirchhoffweg 72
+29;PIRATEN;Rempel;Christian;Gesundheits- und Kinderkrankenpfleger;1985;Herford;48161;Dorffeldstr. 2 a 
+30;PIRATEN;Gies-Powroznik;Natalie;Studentin;1987;Löbau;48149;Horstmarer Landweg 84 
+31;PIRATEN;Lindhoff;Alexander Matthias;Erzieher;1983;Telgte;48153;Hafenstr. 9 
+32;PIRATEN;Powroznik;Pascal Rene;Student;1983;Sulingen;48149;Horstmarer Landweg 84 
+33;PIRATEN;Ebbert;Daniel;Student;1991;Münster;48161;Uhlenbrockweg 245
+1;ÖDP;Heskamp;Florian;Angestellter;1970;Thuine;48157;An der Meerwiese 33 
+2;ÖDP;Höpel;Stefan;Verkehrsplaner;1960;Göttingen;48145;Wiener Str. 75 
+3;ÖDP;Kersting;Gerd Heinz Bernhard;Polizeibeamter;1956;Meschede;48147;Coerdeplatz 14 
+4;ÖDP;Kersting;Jochen Wolfgang Friedrich ;Angestellter;1955;Meschede;48147;Schleswiger Str. 29 
+5;ÖDP;Kersting;Sieglinde Ingrid Edith;Kaufm. Angestellte;1957;Bochum;48147;Coerdeplatz 14 
+6;ÖDP;Rehm;Andreas Norbert;Pastoral-Referent;1964;Kleve;48145;Beckhofstr. 22 
+7;ÖDP;Kolvenbach;Petra Charlotte;Angestellte;1958;Münster;48145;Lönsstr. 3 
+8;ÖDP;Rehm;Elisabeth Christina;Sozialarbeiterin;1964;Münster;48145;Beckhofstr. 22 
+9;ÖDP;Pellemeier;Tim;Telefonagent;1978;Bad Laer;48161;Potstiege 33 
+10;ÖDP;Krapp;Michael;Geschäftsführer;1971;Meschede;48153;Olfersstr. 6 a 
+11;ÖDP;Heinrichs;Heinz Georg;Freiberufler;1964;Erkelenz;48151;Freiburger Weg 5 
+12;ÖDP;Hagedorn;Angelika Jutta;Dipl.-Pädagogin;1957;Kiel;48151;Freiburger Weg 84 
+13;ÖDP;Fink;Ulrike;Apothekerin;1959;Gütersloh;48147;Piusallee 39 
+14;ÖDP;Rietkötter;Roland Wilhelm;Landschaftsgärtnermeister;1966;Münster;48147;Gluckweg 43 
+15;ÖDP;Köpke;Rose-Marie;Versicherungskauffrau;1983;Bochum;48147;Finkenstr. 24 
+16;ÖDP;Kersting;Ludger Otto Alfred;Angestellter;1956;Meschede;48157;Breslauer Str. 136 
+17;ÖDP;Gremmler;Simon Martin;Geophysiker;1983;Bottrop;48151;Inselbogen 10 
+18;ÖDP;Pohlmann;Franz;Dipl.-Agrar-Ingenieur;1956;Leverkusen;48157;Dorbaumstr. 32 
+19;ÖDP;Mense;Dagmar;BTA;1972;Großburgwedel;48157;Kornblumenweg 5 
+20;ÖDP;Kolvenbach;Gerrit;Buchbinder;1984;Münster;48147;Finkenstr. 28 
+21;ÖDP;Weß;Roswitha;Apothekerin;1958;Thuine;48161;Brüggefeldstr. 21 
+22;ÖDP;Bella;Istvan Jozsef;Ingenieur;1945;Kisvarda/Ungarn;48151;Eifelstr.29 
+23;ÖDP;Von Poblotzki;Fritz Dieter;Stadtplaner, Ingenieur;1943;Wesel;48153;Gigastr. 18 
+24;ÖDP;Hunscher;Hans-Dieter;arbeitslos;1954;Wuppertal;48161;Große Helkamp 31 
+25;ÖDP;Kolvenbach;Michael Otto;Buchbinder;1957;Bonn;48145;Lönsstr. 3 
+26;ÖDP;Kaup;Bernhard Konrad;Lehrer;1953;Klausberg;48165;Malteserstr. 33 
+27;ÖDP;Potzesny;Monika Lucia;Physiotherapeutin;1971;Münster;48163;Sunnenheide 
+28;ÖDP;Witte;Thomas Christian;Versicherungsangestellter;1981;Marburg;48163;Heuenkamp 34 
+29;ÖDP;Hoffmann;Norbert Johannes;Gärtner;1958;Borken;48151;Kleine Turmstr. 6 
+30;ÖDP;Potzesny;Mathilde Antonia;Rentnerin;1938;Münster;48163;Sunnenheide 
+31;ÖDP;Hinrichs;Hartmut;Beamter;1969;Westerstede;48147;Dettenstr. 6 
+32;ÖDP;Dr. Aye;Werner;Apotheker;1950;Goslar;48161;Brüggefeldweg 21 
+33;ÖDP;Pohlmann;Luise;Schülerin;1995;Münster;48157;Dorbaumstr. 32
+1;AfD;Hoffmann;Wolfram Reinhold Karl;Dipl.-Ing. (FH);1935;Allenstein;48143;Frauenstr. 42 
+2;AfD;Schiller;Christiane;Dipl.-Betriebswirtin (BA);1974;Mexiko-Stadt;48157;Schräderheide 2 
+3;AfD;Stracke;Christoph;Miedermacher (selbst.);1968;Meschede;48143;Breul 29 
+4;AfD;Roerkohl;Magdalene Paula;Architektin;1938;Emsdetten;48147;Stolbergstr. 6 
+5;AfD;Döbbe;Philipp Christoph Josef;Auszubildender;1990;Soest;48147;Jahnstr. 55 
+6;AfD;Thiemann;Horst Theodor;Dipl.-Ing.;1953;Enniger;48147;Kanalstr. 85 
+7;AfD;Dr. Meyer zur Heyde genannt Meyer-Arend ;Cornelia Helga;Dipl.-Volkswirt;1956;Darmstadt;48145;Salzburgweg 8 
+8;AfD;Vogt;Torsten Satakun;Student;1995;Aachen;48159;Ermlandweg 11 
+9;AfD;Mol;Richard Frederek;Dipl.-Volkswirt;1968;Gronau;48151;Josefstr. 11 
+10;AfD;Becker;Magnus;Social Media Assistent;1972;Dorsten;48143;Winkelstr. 12 
+11;AfD;Eller;Klaus Karl;Geschäftsführer;1947;Everswinkel;48151;Hagenauer Weg 43 
+12;AfD;Prof. Dr. Purwins;Hans-Georg Wilhelm ;Professor;1939;Heydekrug;48151;Bischopinkstr. 19d 
+13;AfD;Schäfer;Ralf;Organisationsprogrammierer;1963;Münster;48153;Düesbergweg 17 
+14;AfD;Birke;Helmut Gerhard;Dipl.-Informatiker;1954;Letmathe;48159;Guerickeweg 31 
+15;AfD;May;Bernd-Jürgen Karlheinz;Dipl.-Kaufmann;1951;Schwiesau;48159;In der Au 4b 
+16;AfD;Schänzer;Jürgen Hubert Friedrich;Bürokaufmann;1967;Münster;48157;Königsberger Str. 136
+17;AfD;Schiller;Martin;Kaufmann;1967;Dresden;48157;Schräderheide 2 
+18;AfD;Büsching;Rolf;Heizungsbauer;1973;Schwelm;48157;Ludwig-Wolker-Str. 28 
+19;AfD;Küttner;Heinz;Pensionär;1942;Ottosfelde;48155;Haus-Kleve-Weg 2a 
+20;AfD;Kraemer;Heinz-Stefan;Selbstständiger;1963;Altenhundem;48147;Goldstr. 23b 
+21;AfD;Ruhe;Ida Bernhardina;Rentnerin;1946;Wolbeck j. Münster ;48167;Twenhövenweg 30 
+22;AfD;Schnapp;Dirk Friedrich;Pensionär;1945;Harsewinkel;48167;Alter Postweg 57 
+23;AfD;Baumgarte;Christian Reinhold;Handwerker;1966;Münster;48153;Gigasstr. 47 
+24;AfD;Reiermann;Ralph;Chemielaborant;1980;Telgte;48165;Osttor 48 
+25;AfD;Schirok;Angelika Maria;Heilpraktikerin/Fußpflegerin;1955;Billerbeck;48165;Koskamp 2 
+26;AfD;Rupsch;Ottomar Karl Reinhard;Bankkaufmann;1949;Salzgitter;48165;Am Kalvarienberg 23 
+27;AfD;Krämer;Peter;Maschinenbau-Ing.;1968;Bergneustadt;48159;Gasselstiege 31 
+28;AfD;Jonitz;Maximilian;Student;1992;Münster;48153;Düesbergweg 17 
+29;AfD;Wahmann;Werner Heinrich;Maschinenbau-Ingenieur;1944;Raalte (NL);48153;Sternbusch 12 
+30;AfD;Wermter;Christian Georg;Selbständiger;1960;Münster;45151;Sperlichstr. 34 
+31;AfD;Klug;Dennis;Student;1991;Bergisch Gladbach;48149;Steinfurter Str. 128 
+32;AfD;Post;Michael Manfred;Lehrer;1964;Arnsberg;48161;Legdenweg 31 
+33;AfD;Schelten;Johann Nikolaus;Dipl.-Kfm.;1942;Hagermarsch;48157;Görlitzer Str. 98
+9;Harryismus;Seemann;Harry Gerhard;Chemisch-technischer Assistent;1955;Billerbeck;48143;Herwarthstr. 7
