@@ -12,6 +12,7 @@ Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (
 - andere Quellen
  - [LODUM](http://lodum.de/) - sehr viele Daten zur Universität Münster. Publikationen, Gebäude, Personen
  - [enviroCar](https://envirocar.org/) - Georeferenzierte Daten zu Autofahrten
+ - [Uni Münster Institut für Klimatoglogie](http://www.uni-muenster.de/Klima/wetter/wetter.php) -  meteorologische Rohdaten der Wetterstation des Instituts. Lizensiert unter der "Public Domain Dedication and License v1.0"
 
 ### Unklare Nutzungsbedingungn
 - [Zahlen, Daten, Fakten für Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung](http://www.muenster.de/stadt/stadtplanung/zahlen.html)
