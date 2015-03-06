@@ -1,6 +1,14 @@
-# Offene Daten für Münster in Westfalen (51.9N 7.6E)
+---
+status: ok
+uri: http://codeformuenster.org/open-data/
+forum: http://forum.codeformuenster.org/t/spielplatz-visualisierung/31
+---
+
+# Offene Daten für Münster
 
 Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (westf.) geben. Änderungen werden gerne per Pull Request angenommen. Alle Angaben ohne Gewähr.
+
+![screen shot 2015-03-06](https://cloud.githubusercontent.com/assets/225698/6537906/acd199be-c45b-11e4-89f8-3f719d65ae8d.png)
 
 ### nach Datenquellen
 - [govdata.de](https://www.govdata.de)
