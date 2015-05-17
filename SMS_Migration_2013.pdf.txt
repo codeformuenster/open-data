@@ -1,0 +1,1166 @@
+Migration in Münster
+
+
+
+
+
+      Rückfragen: Informationsmanagement und Statistikdienststelle
+                  www.muenster.de/stadt/stadtplanung/zahlen.html
+                               E-Mail: statistik@stadt-muenster.de
+Impressum
+
+Herausgeberin:    Stadt Münster
+                  Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+                  48127 Münster
+
+Redaktion:        Fachstelle Informationsmanagement und
+                  Statistikdienststelle
+
+Information:      Telefon: 0251 / 492 – 1234
+                  Telefax: 0251 / 492 – 7732
+                  E-Mail: statistik@stadt-muenster.de
+                  Internet: http://statistik.stadt-muenster.de
+
+Druck:            Die Reihe „SMS – Statistik für Münsters Stadtteile“ ist nur
+                  als online-Medium verfügbar. Das PDF steht im Internet
+                  allen Nutzern kostenlos zur Verfügung.
+
+April 2014
+
+© Stadt Münster, Amt für Stadtentwicklung, Stadtplanung,
+Verkehrsplanung
+
+Für nicht gewerbliche Zwecke sind Vervielfältigungen und unentgeltliche
+Verbreitung, auch auszugsweise, mit Quellenangabe gestattet. Die
+Verbreitung, auch auszugsweise, über elektronische Systeme/Datenträger
+bedarf der vorherigen Zustimmung. Alle übrigen Rechte bleiben vorenthalten.
+
+
+
+
+                                Rückfragen: Informationsmanagement und Statistikdienststelle
+                                            www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                         E-Mail: statistik@stadt-muenster.de
+SMS – Statistik für Münsters Stadtteile
+
+Für viele Aufgaben, Planungen oder Interessensschwerpunkte reichen die
+Informationen, die gesamtstädtisch zur Verfügung stehen, nicht aus.
+Kleinräumige Daten, insbesondere Informationen auf Stadtteilebene, werden
+immer häufiger von Bürgern, Investoren, Wissenschaftlern, Politikern oder
+Institutionen nachgefragt. Um diesen Informationsbedarf zu decken, wurde die
+SMS – Statistik für Münsters Stadtteile konzipiert, die themenspezifisch die 45
+Stadtteile und die 6 Stadtbezirke in den Kontext zur Gesamtstadt stellt. Die
+SMS bündelt aussagekräftige Daten eines Themenbereiches zu einer
+kompakten Informationseinheit und stellt sie den Nutzern kleinräumig zur
+Verfügung.
+
+Im Kontext der aktuellen Diskussion zu Migration und Integration werden
+Informationen und Daten insbesondere zu Migranten und Ausländern sehr
+stark nachgefragt. Die vorliegende SMS zum Thema „Migration in Münster“
+versucht, auf der Basis der wohnberechtigten Bevölkerung der Stadt Münster
+kleinräumig diese Thematik abzubilden und damit für weitergehende Analysen
+und zur Beantwortung räumlich und inhaltlich differenzierter Fragestellungen
+ein valides Datenfundament zu liefern.
+
+Diese Intention erfordert klare Definitionen in den Begrifflichkeiten. Während
+die Ausländer über die nicht deutsche Staatsangehörigkeit klar definiert sind,
+fehlte in der Statistik bislang eine eindeutige Definition für Personen mit einer
+Migrationsvorgeschichte. Diese notwendige Grundlage der Migrationsstatistik
+wurde zwischenzeitlich gemeinsam von der Fachstelle Informationsmanage­
+ment und Statistikdienststelle und der Koordinierungsstelle für Migration und
+Interkulturelle Angelegenheiten für Münster erarbeitet.
+
+Die methodische Vorgehensweise zur Identifizierung von Personen mit
+Migrationsvorgeschichte wird im Folgenden vorgestellt:
+
+Grundlage und Methodik der Migrationsstatistik
+
+Das amtliche Melderegister ist die Grundlage für die Bevölkerungsauswer­
+tungen. Die gewonnenen Daten werden unter Beachtung der Datenschutz-
+
+                                 Rückfragen: Informationsmanagement und Statistikdienststelle
+                                             www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                          E-Mail: statistik@stadt-muenster.de
+bestimmungen für unterschiedliche Raumeinheiten aufgearbeitet und den
+Nutzern zur Verfügung gestellt. Zusätzlich zur Staatsbürgerschaft werden seit
+2006 auch die Geburtsorte aus dem Melderegister an die Statistikdienststelle
+mit übermittelt, so dass hierüber Aussagen über die Migrationsvorgeschichte
+generiert werden können. Über eine Referenzliste werden die Geburtsorte
+Geburtsländern zugeordnet und zusammen mit den anderen
+personenbezogenen Daten ausgewertet.
+
+Bei den nicht eindeutig zuzuweisenden Geburtsorten wurden folgende
+Zuweisungen vorgenommen.
+
+Geburtsort gibt es in Deutschland und im Ausland =>
+     als Geburtsland wird Deutschland gesetzt
+Geburtsort gibt es mehrfach, aber nur in einem einzigen ausländischen Land
+     => als Geburtsland wird das identifizierte Land gesetzt
+Geburtsort gibt es mehrfach in unterschiedlichen Ländern im Ausland =>
+     als Geburtsland wird „unbekanntes Ausland“ gesetzt (die Person
+     bekommt dadurch eine Migrationsvorgeschichte)
+Geburtsort ist nicht zu identifizieren =>
+     da die Wahrscheinlichkeit hoch ist, dass man einen deutschen Ort
+     identifizieren würde, wird in diesem Fall auch als Geburtsort
+     „unbekanntes Ausland“ gesetzt
+
+Alle beschriebenen Daten liegen geschlechterspezifisch vor. Auf Grund des
+Datenschutzes können aber nicht alle Themen in der vorliegenden
+Datenstruktur geschlechterspezifisch aufbereitet werden, da ansonsten zu viele
+Informationen geschwärzt werden müssten. Auf Nachfrage zu diesem
+Themenbereich werden alle Daten geschlechterspezifisch ausgewiesen, soweit
+der Datenschutz dies zulässt.
+
+Definitionen
+
+Ausländer
+Als Ausländer gelten die Personen, die eine fremde Staatsbürgerschaft
+besitzen, staatenlos sind oder deren Staatsangehörigkeit nicht geklärt ist.
+Personen, die neben der deutschen noch eine ausländische Staatsangehörigkeit
+haben, zählen als Deutsche. Neugeborene zählten bis 1999 dann als
+Ausländer, wenn beide Elternteile nicht die deutsche Staatsangehörigkeit
+besaßen. Mit dem In-Kraft-Treten der Reform des Staatsbürgerrechts am
+
+                                Rückfragen: Informationsmanagement und Statistikdienststelle
+                                            www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                         E-Mail: statistik@stadt-muenster.de
+01.01.2000 hat sich u. a. die Zuordnung der Lebendgeborenen geändert. Falls
+sich am Tage der Geburt des Kindes ein Elternteil länger als 8 Jahre
+ununterbrochen rechtmäßig in Deutschland aufhält und ein unbefristetes
+Aufenthaltsrecht besitzt oder als Staatsangehöriger der Schweiz oder dessen
+Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom
+21.06.1999 zwischen der Europäischen Gemeinschaft und ihren
+Mitgliedsstaaten einerseits und der Schweizerischen Eidgenossenschaft
+andererseits über die Freizügigkeit besitzt, erwirbt das Kind die deutsche
+Staatsbürgerschaft.
+
+Aussiedler/Spätaussiedler
+Aussiedler/Spätaussiedler sind Personen mit deutscher Staatsangehörigkeit
+und einem Geburtsort in einem der Herkunftsländer von Aussiedlern
+entsprechend der nachfolgenden Tabelle, die nicht unter die Definition der
+Heimatvertriebenen fallen.
+
+Haushalt
+
+Ein Haushalt ist als eine Personengruppe definiert, die gemeinsam wohnt und
+
+wirtschaftet, d.h. insbesondere ihren Lebensunterhalt gemeinsam finanziert.
+
+Wer alleine wirtschaftet, bildet einen eigenen Haushalt und zwar auch dann,
+
+wenn er mit anderen Personen eine gemeinsame Wohnung hat. Personen, die
+
+auf Adressen von Gemeinschafts- oder Anstaltsunterkünften gemeldet sind, 
+
+werden nicht in die Haushaltebildung mit einbezogen.
+
+
+Haushalt mit überwiegender Migrationsvorgeschichte
+Haushalte, bei denen mindestens 50% der Haushaltsmitglieder eine
+persönliche Migrationsvorgeschichte haben.
+
+Heimatvertriebene
+Als (zwangsmigrierte) Heimatvertriebene werden Personen bezeichnet, die in
+ehemaligen deutschen Gebieten vor dem 1.1.1950 geboren wurden und heute
+eine deutsche Staatsangehörigkeit haben. Als ehemalige deutsche Gebiete, im
+Sinne dieser Definition, werden die heutigen Staaten entsprechend der
+nachfolgenden Tabelle definiert.
+
+
+
+
+                                   Rückfragen: Informationsmanagement und Statistikdienststelle
+                                               www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                            E-Mail: statistik@stadt-muenster.de
+Kinder
+
+Wohnberechtigte Bevölkerung im Alter von unter 18 Jahren.
+
+
+Stadtteil
+
+Die Stadtteile der Stadt Münster sind identisch mit den Statistischen Bezirken. 
+
+Beide Begriffe werden synonym benutzt.
+
+
+Vererbte Migrationsvorgeschichte
+Kinder, die mit Eltern aus dem definierten Personenkreis (Ausländer,
+Aussiedler/Spätaussiedler, Heimatvertriebene und weitere Eingebürgerte) im
+selben Haushalt leben, haben ebenfalls eine Migrationsvorgeschichte. Hierbei
+reicht es, wenn ein Elternteil eine Migrationsvorgeschichte hat. Die
+unterschiedlichen Arten der Vererbung können zusätzlich zu den hier
+vorliegenden Darstellungen für spezielle Anfragen ausgewertet werden.
+
+Weitere Eingebürgerte
+Als weitere Eingebürgerte werden Zugewanderte bezeichnet, die eine deutsche
+Staatsangehörigkeit erworben haben, einen nicht-deutschen Geburtsort haben
+und nicht zu einer der oben definierten Gruppen gehören.
+
+Wohnberechtigte Bevölkerung
+Zur Wohnberechtigten Bevölkerung einer Gemeinde zählen alle Personen, die
+in der Gemeinde eine Wohnung haben, unabhängig davon, ob es sich um eine
+Haupt- oder Nebenwohnung handelt. Grundlage zur Berechnung der „Wohn­
+berechtigten Bevölkerung“ war bis 2010 die Volkszählung 1987. Aufgrund der
+zeitlichen Entfernung ergeben sich Ungenauigkeiten, die sich bei der Berech­
+nung der „Wohnberechtigten Bevölkerung“ niederschlagen.
+Ab 2011 wird die Wohnberechtigte Bevölkerung durch die Auszählung aller
+gemeldeten Wohnsitze (Haupt- und Nebenwohnsitze) des Meldregisters der
+Stadt Münster abgebildet.
+
+
+
+
+                                Rückfragen: Informationsmanagement und Statistikdienststelle
+                                            www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                         E-Mail: statistik@stadt-muenster.de
+Tabelle: Geburtsländer für die Definition von Heimatvertriebenen und
+Aussiedlern/Spätaussiedlern mit Kodierungsnummer des Statistischen
+Bundesamtes (DESTATIS)
+DESTATIS Name                     Gültig bis     Aussiedler Vertriebene, wenn
+                                                            Geburtsdatum vor
+                                                            dem 1.1.1950
+127       Estland                                Ja         Ja
+139       Lettland                               Ja             Ja
+142       Litauen                                Ja             Ja
+146       Moldau, Republik                       Ja             Ja
+152       Polen                                  Ja             Ja
+154       Rumänien                               Ja             Ja
+155       Slowakei                               Ja             Ja
+160       Russische Föderation                   Ja             Nein
+164       Tschechische Republik                  Ja             Ja
+165       Ungarn                                 Ja             Ja
+166       Ukraine                                Ja             Ja
+169       Weißrussland                           Ja             Nein
+422       Armenien                               Ja             Nein
+425       Aserbaidschan                          Ja             Nein
+430       Georgien                               Ja             Nein
+444       Kasachstan                             Ja             Nein
+450       Kirgisistan                            Ja             Nein
+470       Tadschikistan                          Ja             Nein
+471       Turkmenistan                           Ja             Nein
+477       Usbekistan                             Ja             Nein
+159       Sowjetunion             16.12.1991 Ja                 Nein
+162       Tschechoslowakei        01.01.1993 Ja                 Ja
+
+
+
+
+                               Rückfragen: Informationsmanagement und Statistikdienststelle
+                                           www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                        E-Mail: statistik@stadt-muenster.de
+Zeichenerklärung
+
+-   Zahlenwert genau null
+
+.   Zahlenwert geheim zu halten oder nicht verfügbar
+
+…   Daten liegen zum Zeitpunkt der Veröffentlichung noch nicht vor
+
+X   Nachweis nicht sinnvoll
+
+r   berichtigte Zahl
+
+
+
+
+                              Rückfragen: Informationsmanagement und Statistikdienststelle
+                                          www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                       E-Mail: statistik@stadt-muenster.de
+Bevölkerungspyramide am 31.12.2013
+
+              Wohnberechtigte Bevölkerung am 31.12.2013
+               in Münster nach Migrationsvorgeschichte
+100 und mehr Jahre
+
+          95 Jahre
+
+          90 Jahre
+
+          85 Jahre
+
+          80 Jahre
+
+          75 Jahre
+
+          70 Jahre
+
+          65 Jahre
+
+          60 Jahre
+
+          55 Jahre
+
+          50 Jahre
+
+          45 Jahre
+
+          40 Jahre
+
+          35 Jahre
+
+          30 Jahre
+
+          25 Jahre
+
+          20 Jahre
+
+          15 Jahre
+
+          10 Jahre
+
+           5 Jahre
+
+       unter 1 Jahr
+                  4 000   3 000    2 000     1 000       -       1 000    2 000       3 000   4 000   5 000
+
+       MÄNNLICH - deutsch ohne Migrationsvorgeschichte       WEIBLICH - deutsch ohne Migrationsvorgeschichte
+       MÄNNLICH - deutsch mit Migrationsvorgeschichte        WEIBLICH - deutsch mit Migrationsvorgeschichte
+       MÄNNLICH - ausländisch                                WEIBLICH - ausländisch
+
+
+
+
+                                           Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                       www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                    E-Mail: statistik@stadt-muenster.de
+Wohnberechtigte Bevölkerung am 31.12.2013
+                                          Wohnberechtigte Bevölkerung in Münster am 31.12.2013
+                                                        darunter mit Migrationsvorgeschichte
+         Stadtteil                                                          davon
+                            Ins-      Ins-
+       Teilbereich                                     Heimat-     Aus-/     sonstige Kinder ohne persönliche,
+                          gesamt       ge-     Aus-
+       Stadtbezirk                                      vertrie-   Spät-      Einge-     aber mit vererbter
+                                      samt    länder
+                                                         bene    aussiedler bürgerte Migrationsvorgeschichte
+                                                                   Anzahl
+11 Aegidii                   1 462       220      101         27         25         41                       26
+12 Überwasser                1 385       247      137         13         25         52                       20
+13 Dom                       2 251       389      201         31         46         84                       27
+14 Buddenturm                2 415       336      157         34         49         66                       30
+15 Martini                   1 390       213      127         13         27         32                       14
+Altstadt                     8 903     1 405      723       118         172        275                      117
+21 Pluggendorf               4 411       642      327         67        100        121                       27
+22 Josef                     8 683     1 140      586         87        148        234                       85
+23 Bahnhof                   1 200       257      160         12         29         39                       17
+24 Hansaplatz                6 874     1 007      488         58        161        195                      105
+25 Mauritz-West              6 202       773      413         69         75        144                       72
+26 Schlachthof               5 231       927      314         71        145        203                      194
+27 Kreuz                    12 550     1 334      587        139        173        276                      159
+28 Neutor                    4 288       837      480         34        122        131                       70
+29 Schloss                   2 245       380      197         55         33         66                       29
+Innenstadtring             51 684      7 297    3 552       592         986      1 409                      758
+31 Aaseestadt                5 534     1 212      473        152        184        226                      177
+32 Geist                     8 864     1 449      558        163        196        315                      217
+33 Schützenhof               7 632     1 613      717        109        234        317                      236
+34 Düesberg                  7 035     1 009      378        157        159        181                      134
+Mitte-Süd                  29 065      5 283    2 126       581         773      1 039                      764
+43 Hafen                     1 063       215      142          7         14         27                       25
+44 Herz-Jesu                 5 148       774      298         94        118        161                      103
+45 Mauritz-Mitte            10 227     1 296      466        175        207        238                      210
+46 Rumphorst                 8 065     1 342      475        143        240        253                      231
+47 Uppenberg                 8 609     1 842      725        119        316        367                      315
+Mitte-Nordost              33 112      5 469    2 106       538         895      1 046                      884
+Stadtbezirk Mitte         122 764 19 454        8 507     1 829       2 826      3 769                    2 523
+51 Gievenbeck               21 074     6 457    2 560        274      1 304      1 071                    1 248
+52 Sentrup                   7 468     1 198      599         78        172        203                      146
+54 Mecklenbeck               8 949     1 823      533        213        413        351                      313
+56 Albachten                 6 128     1 571      453        100        372        264                      382
+57 Roxel                     8 964     1 978      746        131        376        305                      420
+58 Nienberge                 6 806     1 108      394        128        166        202                      218
+Stadtbezirk West            59 389 14 135       5 285        924      2 803      2 396                    2 727
+61 Coerde                   10 428     5 199    1 862        248      1 374        672                    1 043
+62 Kinderhaus-Ost            5 021     1 320      544        121        270        180                      205
+63 Kinderhaus-West          10 479     4 033    1 483        283        944        605                      718
+68 Sprakel                   3 053       547      149         48        128         90                      132
+Stadtbezirk Nord            28 981 11 099       4 038        700      2 716      1 547                    2 098
+71 Mauritz-Ost              10 290     1 309      442        196        165        278                      228
+76 Gelmer-Dyckburg           3 658       604      249         52         89        101                      113
+77 Handorf                   7 932     1 233      368        163        238        220                      244
+Stadtbezirk Ost             21 880     3 146    1 059        411        492        599                      585
+81 Gremmendorf-West          4 829     1 175      372         82        283        191                      247
+82 Gremmendorf-Ost           6 526     1 101      401         97        203        183                      217
+86 Angelmodde                7 791     2 371      952        165        482        333                      439
+87 Wolbeck                   8 924     1 508      502        161        252        272                      321
+Stadtbezirk Südost          28 070     6 155    2 227        505      1 220        979                    1 224
+91 Berg Fidel                5 673     2 720    1 072        182        694        327                      445
+95 Hiltrup-Ost               6 358     1 069      271        149        249        187                      213
+96 Hiltrup-Mitte             9 927     2 091      735        214        408        358                      376
+97 Hiltrup-West              9 190     2 474      767        157        608        377                      565
+98 Amelsbüren                6 286     1 380      393        101        328        185                      373
+Stadtbezirk Hiltrup         37 434     9 734    3 238        803      2 287      1 434                    1 972
+Stadt Münster             298 518 63 723 24 354           5 172      12 344     10 724                   11 129
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+                                             Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                         www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                      E-Mail: statistik@stadt-muenster.de
+Männliche Wohnberechtigte Bevölkerung am 31.12.2013
+                                    Männliche Wohnberechtigte Bevölkerung in Münster am 31.12.2013
+                                                        darunter mit Migrationsvorgeschichte
+         Stadtteil                                                            davon
+                            Ins­       Ins­
+       Teilbereich                                     Heimat­      Aus-/     sonstige Kinder ohne persönliche,
+                          gesamt        ge­    Aus­
+       Stadtbezirk                                     vertrie­     Spät­      Einge­     aber mit vererbter
+                                      samt länder
+                                                         bene     aussiedler bürgerte Migrationsvorgeschichte
+                                                                    Anzahl
+11 Aegidii                      667      109       52        13           11         25                        8
+12 Überwasser                   614      111       56         7           15         24                        9
+13 Dom                        1 076      185      102         7           14         43                       19
+14 Buddenturm                 1 100      149       79        10           21         25                       14
+15 Martini                      570        78      49         5           10          6                        8
+Altstadt                      4 027      632      338        42           71       123                        58
+21 Pluggendorf                1 887      278      149        19           40         60                       10
+22 Josef                      3 935      528      268        39           57        119                       45
+23 Bahnhof                      599      147       96         4           12         26                        9
+24 Hansaplatz                 3 362      491      256        21           65        100                       49
+25 Mauritz-West               2 774      381      215        25           34         66                       41
+26 Schlachthof                2 400      448      162        27           59         95                      105
+27 Kreuz                      5 818      614      284        51           70        131                       78
+28 Neutor                     2 093      405      234        15           51         70                       35
+29 Schloss                      995      172      102        18           10         24                       18
+Innenstadtring              23 863 3 464       1 766       219          398        691                       390
+31 Aaseestadt                 2 550      591      225        69           81        127                       89
+32 Geist                      4 197      714      300        73           84        145                      112
+33 Schützenhof                3 555      777      351        40           98        164                      124
+34 Düesberg                   3 395      484      179        62           72        105                       66
+Mitte-Süd                   13 697 2 566       1 055       244          335        541                       391
+43 Hafen                        554      122       90           .           .        15                       11
+44 Herz-Jesu                  2 194      362      148           .           .        75                       58
+45 Mauritz-Mitte              4 657      577      225        64           70        117                      101
+46 Rumphorst                  3 809      653      235        60          105        137                      116
+47 Uppenberg                  4 159      921      364        47          154        195                      161
+Mitte-Nordost               15 373 2 635       1 062       196          391        539                       447
+Stadtbezirk Mitte            56 960 9 297       4 221       701        1 195     1 894                     1 286
+51 Gievenbeck                10 243 3 143       1 219       121          615        562                      626
+52 Sentrup                    3 511      567      287        35           77         96                       72
+54 Mecklenbeck                4 372      909      251       105          216        173                      164
+56 Albachten                  2 994      743      215        34          180        116                      198
+57 Roxel                      4 476 1 011         363        51          184        175                      238
+58 Nienberge                  3 415      564      201        59           78        119                      107
+Stadtbezirk West             29 011 6 937       2 536       405        1 350      1 241                    1 405
+61 Coerde                     5 077 2 577         957       106          659        334                      521
+62 Kinderhaus-Ost             2 372      630      270        45          120        100                       95
+63 Kinderhaus-West            5 093 1 985         737       115          446        311                      376
+68 Sprakel                    1 519      272       71        24           56         52                       69
+Stadtbezirk Nord             14 061 5 464       2 035       290        1 281        797                    1 061
+71 Mauritz-Ost                4 898      642      217        98           73        138                      116
+76 Gelmer-Dyckburg            1 779      278      114        22           37         53                       52
+77 Handorf                    3 835      575      168        81          104        103                      119
+Stadtbezirk Ost              10 512 1 495         499       201          214        294                      287
+81 Gremmendorf-West           2 389      592      193        41          145         88                      125
+82 Gremmendorf-Ost            3 185      546      207        43           95         87                      114
+86 Angelmodde                 3 761 1 149         473        68          238        168                      202
+87 Wolbeck                    4 351      734      235        81          127        122                      169
+Stadtbezirk Südost           13 686 3 021       1 108       233          605        465                      610
+91 Berg Fidel                 2 726 1 308         510        74          320        164                      240
+95 Hiltrup-Ost                3 053      525      131        61          124         94                      115
+96 Hiltrup-Mitte              4 536      982      367        74          185        170                      186
+97 Hiltrup-West               4 548 1 219         382        71          295        199                      272
+98 Amelsbüren                 3 208      685      203        43          167         86                      186
+Stadtbezirk Hiltrup          18 071 4 719       1 593       323        1 091        713                      999
+Stadt Münster              142 301 30 933 11 992          2 153        5 736     5 404                     5 648
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+                                             Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                         www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                      E-Mail: statistik@stadt-muenster.de
+Weibliche Wohnberechtigte Bevölkerung am 31.12.2013
+                                    Weibliche Wohnberechtigte Bevölkerung in Münster am 31.12.2013
+                                                         darunter mit Migrationsvorgeschichte
+         Stadtteil                                                             davon
+                            Ins­       Ins­
+       Teilbereich                                     Heimat­       Aus-/     sonstige Kinder ohne persönliche,
+                          gesamt        ge­    Aus­
+       Stadtbezirk                                      vertrie­     Spät­      Einge­     aber mit vererbter
+                                      samt länder
+                                                         bene      aussiedler bürgerte Migrationsvorgeschichte
+                                                                     Anzahl
+11 Aegidii                      795      111        49        14           14         16                       18
+12 Überwasser                   771      136        81         6           10         28                       11
+13 Dom                        1 175      204        99        24           32         41                        8
+14 Buddenturm                 1 315      187        78        24           28         41                       16
+15 Martini                      820      135        78         8           17         26                        6
+Altstadt                      4 876      773      385         76         101        152                        59
+21 Pluggendorf                2 524      364      178         48           60         61                       17
+22 Josef                      4 748      612      318         48           91        115                       40
+23 Bahnhof                      601      110        64         8           17         13                        8
+24 Hansaplatz                 3 512      516      232         37           96         95                       56
+25 Mauritz-West               3 428      392      198         44           41         78                       31
+26 Schlachthof                2 831      479      152         44           86        108                       89
+27 Kreuz                      6 732      720      303         88          103        145                       81
+28 Neutor                     2 195      432      246         19           71         61                       35
+29 Schloss                    1 250      208        95        37           23         42                       11
+Innenstadtring              27 821 3 833        1 786       373          588        718                       368
+31 Aaseestadt                 2 984      621      248         83          103         99                       88
+32 Geist                      4 667      735      258         90          112        170                      105
+33 Schützenhof                4 077      836      366         69          136        153                      112
+34 Düesberg                   3 640      525      199         95           87         76                       68
+Mitte-Süd                   15 368 2 717        1 071       337          438        498                       373
+43 Hafen                        509        93       52           .           .        12                       14
+44 Herz-Jesu                  2 954      412      150            .           .        86                       45
+45 Mauritz-Mitte              5 570      719      241        111          137        121                      109
+46 Rumphorst                  4 256      689      240         83          135        116                      115
+47 Uppenberg                  4 450      921      361         72          162        172                      154
+Mitte-Nordost               17 739 2 834        1 044       342          504        507                       437
+Stadtbezirk Mitte            65 804 10 157      4 286     1 128         1 631      1 875                    1 237
+51 Gievenbeck                10 831 3 314       1 341        153          689        509                      622
+52 Sentrup                    3 957      631      312         43           95        107                       74
+54 Mecklenbeck                4 577      914      282        108          197        178                      149
+56 Albachten                  3 134      828      238         66          192        148                      184
+57 Roxel                      4 488      967      383         80          192        130                      182
+58 Nienberge                  3 391      544      193         69           88         83                      111
+Stadtbezirk West             30 378 7 198       2 749        519        1 453      1 155                    1 322
+61 Coerde                     5 351 2 622         905        142          715        338                      522
+62 Kinderhaus-Ost             2 649      690      274         76          150         80                      110
+63 Kinderhaus-West            5 386 2 048         746        168          498        294                      342
+68 Sprakel                    1 534      275        78        24           72         38                       63
+Stadtbezirk Nord             14 920 5 635       2 003        410        1 435        750                    1 037
+71 Mauritz-Ost                5 392      667      225         98           92        140                      112
+76 Gelmer-Dyckburg            1 879      326      135         30           52         48                       61
+77 Handorf                    4 097      658      200         82          134        117                      125
+Stadtbezirk Ost              11 368 1 651         560        210          278        305                      298
+81 Gremmendorf-West           2 440      583      179         41          138        103                      122
+82 Gremmendorf-Ost            3 341      555      194         54          108         96                      103
+86 Angelmodde                 4 030 1 222         479         97          244        165                      237
+87 Wolbeck                    4 573      774      267         80          125        150                      152
+Stadtbezirk Südost           14 384 3 134       1 119        272          615        514                      614
+91 Berg Fidel                 2 947 1 412         562        108          374        163                      205
+95 Hiltrup-Ost                3 305      544      140         88          125         93                       98
+96 Hiltrup-Mitte              5 391 1 109         368        140          223        188                      190
+97 Hiltrup-West               4 642 1 255         385         86          313        178                      293
+98 Amelsbüren                 3 078      695      190         58          161         99                      187
+Stadtbezirk Hiltrup          19 363 5 015       1 645        480        1 196        721                      973
+Stadt Münster              156 217 32 790 12 362r         3 019        6 608r      5 320                    5 481
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+                                              Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                          www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                       E-Mail: statistik@stadt-muenster.de
+Wohnberechtigte Bevölkerung mit Migrationsvorgeschichte
+        Stadtteil          Wohnberechtigte Bevölkerung* mit Migrationsvorgeschichte in Münster am 31.12.
+      Teilbereich
+                               2009              2010              2011           2012         2013
+      Stadtbezirk                                                 Anzahl
+11 Aegidii                              214                221              229         219           220
+12 Überwasser                           233                223              244         236           247
+13 Dom                                  331                341              346         359           389
+14 Buddenturm                           313                323              333         331           336
+15 Martini                              182                193              208         210           213
+Altstadt                              1 273             1 301            1 360        1 355         1 405
+21 Pluggendorf                          575                576              598         619           642
+22 Josef                              1 032              1 025            1 034       1 114         1 140
+23 Bahnhof                              171                190              187         202           257
+24 Hansaplatz                           935                946              965         974         1 007
+25 Mauritz-West                         654                706              720         686           773
+26 Schlachthof                          865                889              916         911           927
+27 Kreuz                              1 205              1 253            1 286       1 328         1 334
+28 Neutor                               753                801              824         811           837
+29 Schloss                              320                348              379         362           380
+Innenstadtring                        6 510             6 734            6 909        7 007         7 297
+31 Aaseestadt                         1 240              1 270            1 326       1 306         1 212
+32 Geist                              1 472              1 476            1 478       1 451         1 449
+33 Schützenhof                        1 544              1 543            1 607       1 579         1 613
+34 Düesberg                             903                945              984         996         1 009
+Mitte-Süd                             5 159             5 234            5 395        5 332         5 283
+43 Hafen                                171                182              203         189           215
+44 Herz-Jesu                            774                790              763         762           774
+45 Mauritz-Mitte                      1 205              1 234            1 243       1 269         1 296
+46 Rumphorst                          1 299              1 303            1 298       1 307         1 342
+47 Uppenberg                          1 766              1 771            1 776       1 809         1 842
+Mitte-Nordost                         5 215             5 280            5 283        5 336         5 469
+Stadtbezirk Mitte                    18 157            18 549           18 947       19 030        19 454
+51 Gievenbeck                         6 112              5 985            6 264       6 423         6 457
+52 Sentrup                            1 084              1 150            1 139       1 186         1 198
+54 Mecklenbeck                        1 995              2 040            2 148       1 770         1 823
+56 Albachten                          1 293              1 342            1 429       1 497         1 571
+57 Roxel                              1 551              1 591            1 739       1 842         1 978
+58 Nienberge                            903                938              990       1 048         1 108
+Stadtbezirk West                     12 938            13 046           13 709       13 766        14 135
+61 Coerde                             4 759              4 876            4 995       5 117         5 199
+62 Kinderhaus-Ost                     1 180              1 211            1 228       1 299         1 320
+63 Kinderhaus-West                    3 894              3 988            4 108       4 049         4 033
+68 Sprakel                              435                460              503         534           547
+Stadtbezirk Nord                     10 268            10 535           10 834       10 999        11 099
+71 Mauritz-Ost                        1 323              1 215            1 240       1 273         1 309
+76 Gelmer-Dyckburg                      426                460              503         565           604
+77 Handorf                            1 142              1 167            1 219       1 228         1 233
+Stadtbezirk Ost                       2 891              2 842            2 962       3 066         3 146
+81 Gremmendorf-West                   1 145              1 152            1 132       1 157         1 175
+82 Gremmendorf-Ost                      930                975            1 015       1 053         1 101
+86 Angelmodde                         1 990              2 020            2 120       2 171         2 371
+87 Wolbeck                            1 232              1 300            1 367       1 398         1 508
+Stadtbezirk Südost                    5 297              5 447            5 634       5 779         6 155
+91 Berg Fidel                         2 581              2 563            2 622       2 713         2 720
+95 Hiltrup-Ost                        1 126              1 083            1 092       1 073         1 069
+96 Hiltrup-Mitte                      1 992              2 035            2 028       2 105         2 091
+97 Hiltrup-West                       2 323              2 388            2 412       2 469         2 474
+98 Amelsbüren                         1 169              1 225            1 299       1 365         1 380
+Stadtbezirk Hiltrup                   9 191              9 294            9 453       9 725         9 734
+Stadt Münster                        58 742            59 713           61 539       62 365        63 723
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+*) siehe Definitionsänderung ab 2011
+
+                                              Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                          www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                       E-Mail: statistik@stadt-muenster.de
+Wohnberechtigte Bevölkerung mit Migrationsvorgeschichte am
+31.12.2013 in 10 Altersgruppen
+                                Wohnberechtigte Bevölkerung mit Migrationsvorgeschichte am 31.12.2013
+        Stadtteil          Ins­                           davon im Alter von … bis … Jahren
+      Teilbereich           ge­                                                                            90 u.
+      Stadtbezirk                   0 - 9 10 - 19 20 - 29 30 - 39 40 - 49 50 - 59 60 - 69 70 - 79 80 - 89
+                          samt                                                                             mehr
+                                                                    Anzahl
+11 Aegidii                    220       25        5      50      40     24      18     13      36       4       5
+12 Überwasser                 247       18      13       71      58     35      20     14      13       5        -
+13 Dom                        389       27      15       97      91     54      27     30      28        .       .
+14 Buddenturm                 336       23      16     104       62     33      29     18      22      17     12
+15 Martini                    213       14        8      56      41     32      18     14      23        .       .
+Altstadt                   1 405      107       57     378     292     178    112      89    122       51     19
+21 Pluggendorf                642       34      14     247     127      37      42     32      54      41     14
+22 Josef                    1 140       85      79     293     238     143      92     79      88      33     10
+23 Bahnhof                    257       20        7      87      72     33      16      5       7        .       .
+24 Hansaplatz               1 007       97      63     266     214     136      75     56      63      31       6
+25 Mauritz-West               773       83      60     166     172      94      66     35      69        .       .
+26 Schlachthof                927     133      100     108     183     142      92     63      77      22       7
+27 Kreuz                    1 334     138       98     271     244     150     116    110    140       54     13
+28 Neutor                     837       63      40     358     158      78      47     46      29      13       5
+29 Schloss                    380       42      17       73      86     35      25     26      40      26     10
+Innenstadtring             7 297      695      478 1 869 1 494         848    571     452    567     250      73
+31 Aaseestadt               1 212     156      107     182     200     146     140     72    125       71     13
+32 Geist                    1 449     188      103     202     244     191     154    139    133       75     20
+33 Schützenhof              1 613     198      143     267     304     213     182    118    128       52       8
+34 Düesberg                 1 009       94     108     131     139     128     107     89    126       67     20
+Mitte-Süd                  5 283      636      461     782     887     678    583     418    512     265      61
+43 Hafen                      215       26      10       68      41     30       8     14      14        .       .
+44 Herz-Jesu                  774       85      75     136     122      85      65     48      83      58     17
+45 Mauritz-Mitte            1 296     165      101     184     210     154     126    109    161       79       7
+46 Rumphorst                1 342     184      169     158     190     193     165     77    126       70     10
+47 Uppenberg                1 842     282      126     309     347     234     210    130    136         .       .
+Mitte-Nordost              5 469      742      481     855     910     696    574     378    520     267      46
+Stadtbezirk Mitte         19 454 2 180 1 477 3 884 3 583 2 400 1 840 1 337 1 721                     833     199
+51 Gievenbeck               6 457     975      752 1 475 1 142         730     580    367    289     123      24
+52 Sentrup                  1 198     149      111     376     203      98      94     34      78        .       .
+54 Mecklenbeck              1 823     205      211     250     192     263     245    138    197       99     23
+56 Albachten                1 571     289      253     138     236     229     169     93    100       54     10
+57 Roxel                    1 978     325      271     265     352     295     179     99    132       55       5
+58 Nienberge                1 108     157      132     163     166     143     106     85    115         .       .
+Stadtbezirk West          14 135 2 100 1 730 2 667 2 291 1 758 1 373                  816    911     408      81
+61 Coerde                   5 199     890      705     679     791     667     671    382    262     130      22
+62 Kinderhaus-Ost           1 320     193      125     194     217     172     139    116    117         .       .
+63 Kinderhaus-West          4 033     604      577     544     536     495     523    316    290     135      13
+68 Sprakel                    547       98      77       46      88     85      56     32      38        .       .
+Stadtbezirk Nord          11 099 1 785 1 484 1 463 1 632 1 419 1 389                  846    707     332      42
+71 Mauritz-Ost              1 309     185      128     171     174     162     121     90    187       83       8
+76 Gelmer-Dyckburg            604       98      73       83      80     98      56     45      50      17       4
+77 Handorf                  1 233     190      158     109     168     168     145     79    155       53       8
+Stadtbezirk Ost             3 146     473      359     363     422     428     322    214    392     153      20
+81 Gremmendorf-West         1 175     175      156     153     161     169     157     67      97      30     10
+82 Gremmendorf-Ost          1 101     155      128     184     172     145     112     61      86      47     11
+86 Angelmodde               2 371     402      301     315     366     296     250    188    183       58     12
+87 Wolbeck                  1 508     267      184     157     235     174     162     93    175       53       8
+Stadtbezirk Südost          6 155     999      769     809     934     784     681    409    541     188      41
+91 Berg Fidel               2 720     451      364     307     435     342     324    193    187     101      16
+95 Hiltrup-Ost              1 069     142      110     106     124     122     147    102    158       50       8
+96 Hiltrup-Mitte            2 091     304      216     290     334     258     216    139    218       91     25
+97 Hiltrup-West             2 474     386      342     241     372     366     355    161    196       49       6
+98 Amelsbüren               1 380     262      236     107     265     180     111     64    109       38       8
+Stadtbezirk Hiltrup         9 734 1 545 1 268 1 051 1 530 1 268 1 153                 659    868     329      63
+Stadt Münster             63 723 9 082 7 087 10 237 10 392 8 057 6 758 4 281 5 140 2 243                     446
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+                                              Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                          www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                       E-Mail: statistik@stadt-muenster.de
+Ausländische Wohnberechtigte Bevölkerung
+        Stadtteil                  Ausländische Wohnberechtigte Bevölkerung* in Münster am 31.12.
+      Teilbereich
+                               2009              2010              2011           2012         2013
+      Stadtbezirk                                                 Anzahl
+11 Aegidii                               93                 86               94          99            101
+12 Überwasser                           124                123              140         133            137
+13 Dom                                  162                169              161         184            201
+14 Buddenturm                           131                138              136         149            157
+15 Martini                               98                105              115         122            127
+Altstadt                                608               621              646          687            723
+21 Pluggendorf                          247                270              262         295            327
+22 Josef                                500                482              508         563            586
+23 Bahnhof                               73                 84               89         108            160
+24 Hansaplatz                           427                439              458         474            488
+25 Mauritz-West                         281                319              324         317            413
+26 Schlachthof                          249                269              298         310            314
+27 Kreuz                                486                517              531         550            587
+28 Neutor                               399                433              433         440            480
+29 Schloss                              170                167              199         184            197
+Innenstadtring                        2 832             2 980            3 102        3 241          3 552
+31 Aaseestadt                           515                513              556         537            473
+32 Geist                                555                563              581         572            558
+33 Schützenhof                          722                721              725         702            717
+34 Düesberg                             288                303              332         349            378
+Mitte-Süd                             2 080             2 100            2 194        2 160          2 126
+43 Hafen                                117                121              127         118            142
+44 Herz-Jesu                            305                320              298         297            298
+45 Mauritz-Mitte                        404                427              411         438            466
+46 Rumphorst                            405                423              433         443            475
+47 Uppenberg                            679                684              672         697            725
+Mitte-Nordost                         1 910             1 975            1 941        1 993          2 106
+Stadtbezirk Mitte                     7 430              7 676            7 883       8 081          8 507
+51 Gievenbeck                         2 390              2 248            2 384       2 535         2 560r
+52 Sentrup                              513                560              543         585            599
+54 Mecklenbeck                          648                702              800         486            533
+56 Albachten                            327                339              379         416            453
+57 Roxel                                589                601              649         701            746
+58 Nienberge                            258                278              303         346            394
+Stadtbezirk West                      4 725              4 728            5 058       5 069         5 285r
+61 Coerde                             1 457              1 499            1 639       1 755          1 862
+62 Kinderhaus-Ost                       354                397              433         506            544
+63 Kinderhaus-West                    1 264              1 350            1 507       1 503          1 483
+68 Sprakel                              114                122              135         150            149
+Stadtbezirk Nord                      3 189              3 368            3 714       3 914          4 038
+71 Mauritz-Ost                          470                387              401         402            442
+76 Gelmer-Dyckburg                      141                168              201         225            249
+77 Handorf                              299                323              334         358            368
+Stadtbezirk Ost                         910                878              936         985          1 059
+81 Gremmendorf-West                     294                308              333         361            372
+82 Gremmendorf-Ost                      253                287              316         350            401
+86 Angelmodde                           648                674              747         780            952
+87 Wolbeck                              387                390              431         449            502
+Stadtbezirk Südost                    1 582              1 659            1 827       1 940          2 227
+91 Berg Fidel                           877                887              915       1 052          1 072
+95 Hiltrup-Ost                          288                268              266         286            271
+96 Hiltrup-Mitte                        685                662              688         735            735
+97 Hiltrup-West                         678                707              733         768            767
+98 Amelsbüren                           285                298              323         350            393
+Stadtbezirk Hiltrup                   2 813              2 822            2 925       3 191          3 238
+Stadt Münster                        20 649            21 131           22 343       23 180         24 354
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+*) siehe Definitionsänderung ab 2011
+
+                                              Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                          www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                       E-Mail: statistik@stadt-muenster.de
+Heimatvertriebene innerhalb der Wohnberechtigten Bevölkerung
+                                                      Heimatvertriebene innerhalb der
+        Stadtteil
+                                           Wohnberechtigten Bevölkerung* in Münster am 31.12.
+      Teilbereich
+                                 2009              2010             2011            2012         2013
+      Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                               34                 33               30             30             27
+12 Überwasser                            16                 14               13             13             13
+13 Dom                                   29                 30               31             31             31
+14 Buddenturm                            42                 42               41             35             34
+15 Martini                               16                 14               14             14             13
+Altstadt                                137               133              129            123            118
+21 Pluggendorf                           86                 77               76             71             67
+22 Josef                                112                109               92             89             87
+23 Bahnhof                               17                 15               15             13             12
+24 Hansaplatz                            80                 76               71             63             58
+25 Mauritz-West                          77                 75               74             72             69
+26 Schlachthof                           85                 81               77             73             71
+27 Kreuz                                169                161              158            152            139
+28 Neutor                                32                 32               36             37             34
+29 Schloss                               45                 55               54             58             55
+Innenstadtring                          703               681              653            628            592
+31 Aaseestadt                           186                175              171            159            152
+32 Geist                                197                185              177            171            163
+33 Schützenhof                          136                127              127            115            109
+34 Düesberg                             170                168              160            157            157
+Mitte-Süd                               689               655              635            602            581
+43 Hafen                                  9                  9                9              7              7
+44 Herz-Jesu                            116                115              107            100             94
+45 Mauritz-Mitte                        199                198              188            181            175
+46 Rumphorst                            170                165              156            142            143
+47 Uppenberg                            143                140              128            125            119
+Mitte-Nordost                           637               627              588            555            538
+Stadtbezirk Mitte                     2 166              2 096            2 005          1 908          1 829
+51 Gievenbeck                           321                319              306            293            274
+52 Sentrup                               84                 77               80             77             78
+54 Mecklenbeck                          240                238              231            228            213
+56 Albachten                            110                105              102             99            100
+57 Roxel                                147                145              137            133            131
+58 Nienberge                            150                146              137            133            128
+Stadtbezirk West                      1 052              1 030              993            963            924
+61 Coerde                               293                284              270            255            248
+62 Kinderhaus-Ost                       150                146              141            130            121
+63 Kinderhaus-West                      325                319              310            292            283
+68 Sprakel                               54                 53               52             49             48
+Stadtbezirk Nord                        822                802              773            726            700
+71 Mauritz-Ost                          239                224              208            205            196
+76 Gelmer-Dyckburg                       54                 52               49             55             52
+77 Handorf                              190                189              183            178            163
+Stadtbezirk Ost                         483                465              440            438            411
+81 Gremmendorf-West                      99                 98               92             92             82
+82 Gremmendorf-Ost                      114                108              102             97             97
+86 Angelmodde                           185                184              174            167            165
+87 Wolbeck                              184                176              171            164            161
+Stadtbezirk Südost                      582                566              539            520            505
+91 Berg Fidel                           229                222              218            203            182
+95 Hiltrup-Ost                          178                169              164            159            149
+96 Hiltrup-Mitte                        245                244              237            225            214
+97 Hiltrup-West                         162                161              163            162            157
+98 Amelsbüren                           118                119              110            109            101
+Stadtbezirk Hiltrup                     932                915              892            858            803
+Stadt Münster                         6 037              5 874            5 642          5 413          5 172
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+*) siehe Definitionsänderung ab 2011
+
+                                            Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                        www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                     E-Mail: statistik@stadt-muenster.de
+Aus-/Spätaussiedler innerhalb der Wohnberechtigten Bevölkerung
+                                                  Aussiedler/Spätaussiedler innerhalb der
+        Stadtteil
+                                           Wohnberechtigten Bevölkerung* in Münster am 31.12.
+      Teilbereich
+                                 2009              2010             2011            2012          2013
+      Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                               23                 30               32              24          25
+12 Überwasser                            21                 20               23              23          25
+13 Dom                                   43                 39               47              46          46
+14 Buddenturm                            43                 49               54              50          49
+15 Martini                               28                 27               30              30          27
+Altstadt                                158               165              186             173         172
+21 Pluggendorf                           84                 82              107             107         100
+22 Josef                                124                127              144             149         148
+23 Bahnhof                               30                 31               30              31          29
+24 Hansaplatz                           136                138              145             148         161
+25 Mauritz-West                          67                 74               80              77          75
+26 Schlachthof                          160                161              151             145         145
+27 Kreuz                                142                154              178             185         173
+28 Neutor                               129                127              135             123         122
+29 Schloss                               25                 28               30              24          33
+Innenstadtring                          897               922            1 000             989         986
+31 Aaseestadt                           180                190              203             193         184
+32 Geist                                188                181              192             188         196
+33 Schützenhof                          199                199              217             228         234
+34 Düesberg                             156                158              172             165         159
+Mitte-Süd                               723               728              784             774         773
+43 Hafen                                  7                 16               18              14          14
+44 Herz-Jesu                            110                110              108             114         118
+45 Mauritz-Mitte                        181                191              208             204         207
+46 Rumphorst                            227                222              223             230         240
+47 Uppenberg                            292                289              326             328         316
+Mitte-Nordost                           817               828              883             890         895
+Stadtbezirk Mitte                     2 595              2 643            2 853           2 826       2 826
+51 Gievenbeck                         1 305              1 269            1 342           1 313       1 304
+52 Sentrup                              168                178              176             180         172
+54 Mecklenbeck                          446                435              448             412         413
+56 Albachten                            314                315              350             363         372
+57 Roxel                                261                280              325             345         376
+58 Nienberge                            160                161              168             176         166
+Stadtbezirk West                      2 654              2 638            2 809           2 789       2 803
+61 Coerde                             1 397              1 385            1 434           1 408       1 374
+62 Kinderhaus-Ost                       267                256              250             260         270
+63 Kinderhaus-West                      958                968              996             965         944
+68 Sprakel                               99                105              118             129         128
+Stadtbezirk Nord                      2 721              2 714            2 798           2 762       2 716
+71 Mauritz-Ost                          146                137              149             159         165
+76 Gelmer-Dyckburg                       65                 64               73              84          89
+77 Handorf                              199                196              231             233         238
+Stadtbezirk Ost                         410                397              453             476         492
+81 Gremmendorf-West                     297                295              295             283         283
+82 Gremmendorf-Ost                      182                185              195             203         203
+86 Angelmodde                           451                442              473             476         482
+87 Wolbeck                              197                218              225             231         252
+Stadtbezirk Südost                    1 127              1 140            1 188           1 193       1 220
+91 Berg Fidel                           709                694              726             705         694
+95 Hiltrup-Ost                          239                234              250             238         249
+96 Hiltrup-Mitte                        356                387              396             416         408
+97 Hiltrup-West                         574                583              603             607         608
+98 Amelsbüren                           285                295              319             334         328
+Stadtbezirk Hiltrup                   2 163              2 193            2 294           2 300       2 287
+Stadt Münster                        11 670            11 725           12 395          12 346       12 344
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+*) siehe Definitionsänderung ab 2011
+
+                                             Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                         www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                      E-Mail: statistik@stadt-muenster.de
+Sonstige Eingebürgerte innerhalb der Wohnberechtigten Bevölkerung
+                                                    Sonstige Eingebürgerte innerhalb der
+        Stadtteil
+                                           Wohnberechtigten Bevölkerung* in Münster am 31.12.
+      Teilbereich
+                                 2009              2010             2011            2012          2013
+      Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                               45                 49               46              39          41
+12 Überwasser                            56                 49               49              49          52
+13 Dom                                   75                 77               87              80          84
+14 Buddenturm                            65                 62               69              64          66
+15 Martini                               28                 34               37              33          32
+Altstadt                                269               271              288              265         275
+21 Pluggendorf                          130                124              128             123         121
+22 Josef                                223                233              215             229         234
+23 Bahnhof                               43                 47               38              31          39
+24 Hansaplatz                           202                191              184             180         195
+25 Mauritz-West                         153                155              159             150         144
+26 Schlachthof                          192                195              201             202         203
+27 Kreuz                                262                252              257             270         276
+28 Neutor                               132                135              142             137         131
+29 Schloss                               49                 63               67              67          66
+Innenstadtring                        1 386             1 395            1 391            1 389       1 409
+31 Aaseestadt                           228                241              229             230         226
+32 Geist                                319                330              318             308         315
+33 Schützenhof                          316                310              329             325         317
+34 Düesberg                             161                176              176             177         181
+Mitte-Süd                             1 024             1 057            1 052            1 040       1 039
+43 Hafen                                 23                 22               26              29          27
+44 Herz-Jesu                            155                150              151             151         161
+45 Mauritz-Mitte                        250                241              243             242         238
+46 Rumphorst                            257                252              252             251         253
+47 Uppenberg                            357                366              354             363         367
+Mitte-Nordost                         1 042             1 031            1 026            1 036       1 046
+Stadtbezirk Mitte                     3 721              3 754            3 757           3 730       3 769
+51 Gievenbeck                         1 003              1 007            1 044           1 067       1 071
+52 Sentrup                              189                199              201             204         203
+54 Mecklenbeck                          361                368              372             346         351
+56 Albachten                            256                265              256             261         264
+57 Roxel                                256                256              281             280         305
+58 Nienberge                            186                186              202             196         202
+Stadtbezirk West                      2 251              2 281            2 356           2 354       2 396
+61 Coerde                               712                733              662             674         672
+62 Kinderhaus-Ost                       209                213              205             196         180
+63 Kinderhaus-West                      681                664              605             602         605
+68 Sprakel                               72                 77               81              80          90
+Stadtbezirk Nord                      1 674              1 687            1 553           1 552       1 547
+71 Mauritz-Ost                          266                261              270             278         278
+76 Gelmer-Dyckburg                       87                 92               92             102         101
+77 Handorf                              234                232              230             225         220
+Stadtbezirk Ost                         587                585              592             605         599
+81 Gremmendorf-West                     202                203              175             183         191
+82 Gremmendorf-Ost                      189                195              196             186         183
+86 Angelmodde                           347                337              316             324         333
+87 Wolbeck                              239                265              268             274         272
+Stadtbezirk Südost                      977              1 000              955             967         979
+91 Berg Fidel                           376                370              343             331         327
+95 Hiltrup-Ost                          214                213              206             190         187
+96 Hiltrup-Mitte                        362                364              349             351         358
+97 Hiltrup-West                         393                392              362             356         377
+98 Amelsbüren                           188                185              189             202         185
+Stadtbezirk Hiltrup                   1 533              1 524            1 449           1 430       1 434
+Stadt Münster                        10 743            10 831           10 662           10 638      10 724
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+*) siehe Definitionsänderung ab 2011
+
+                                             Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                         www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                      E-Mail: statistik@stadt-muenster.de
+Kinder ohne persönliche, aber mit vererbter Migrationsvorgeschichte
+innerhalb der Wohnberechtigten Bevölkerung
+                                     Wohnberechtigte Bevölkerung* unter 18 Jahre ohne persönliche,
+        Stadtteil
+                                     aber mit vererbter Migrationsvorgeschichte in Münster am 31.12.
+      Teilbereich
+      Stadtbezirk                2009              2010             2011            2012            2013
+                                                                   Anzahl
+11 Aegidii                               19                 23               27             27              26
+12 Überwasser                            16                 17               19             18              20
+13 Dom                                   22                 26               20             18              27
+14 Buddenturm                            32                 32               33             33              30
+15 Martini                               12                 13               12             11              14
+Altstadt                                101               111              111            107             117
+21 Pluggendorf                           28                 23               25             23              27
+22 Josef                                 73                 74               75             84              85
+23 Bahnhof                                8                 13               15             19              17
+24 Hansaplatz                            90                102              107            109             105
+25 Mauritz-West                          76                 83               83             70              72
+26 Schlachthof                          179                183              189            181             194
+27 Kreuz                                146                169              162            171             159
+28 Neutor                                61                 74               78             74              70
+29 Schloss                               31                 35               29             29              29
+Innenstadtring                          692               756              763            760             758
+31 Aaseestadt                           131                151              167            187             177
+32 Geist                                213                217              210            212             217
+33 Schützenhof                          171                186              209            209             236
+34 Düesberg                             128                140              144            148             134
+Mitte-Süd                               643               694              730            756             764
+43 Hafen                                 15                 14               23             21              25
+44 Herz-Jesu                             88                 95               99            100             103
+45 Mauritz-Mitte                        171                177              193            204             210
+46 Rumphorst                            240                241              234            241             231
+47 Uppenberg                            295                292              296            296             315
+Mitte-Nordost                           809               819              845            862             884
+Stadtbezirk Mitte                     2 245              2 380            2 449          2 485           2 523
+51 Gievenbeck                         1 093              1 142            1 188          1 215           1 248
+52 Sentrup                              130                136              139            140             146
+54 Mecklenbeck                          300                297              297            298             313
+56 Albachten                            286                318              342            358             382
+57 Roxel                                298                309              347            383             420
+58 Nienberge                            149                167              180            197             218
+Stadtbezirk West                      2 256              2 369            2 493          2 591           2 727
+61 Coerde                               900                975              990          1 025           1 043
+62 Kinderhaus-Ost                       200                199              199            207             205
+63 Kinderhaus-West                      666                687              690            687             718
+68 Sprakel                               96                103              117            126             132
+Stadtbezirk Nord                      1 862              1 964            1 996          2 045           2 098
+71 Mauritz-Ost                          202                206              212            229             228
+76 Gelmer-Dyckburg                       79                 84               88             99             113
+77 Handorf                              220                227              241            234             244
+Stadtbezirk Ost                         501                517              541            562             585
+81 Gremmendorf-West                     253                248              237            238             247
+82 Gremmendorf-Ost                      192                200              206            217             217
+86 Angelmodde                           359                383              410            424             439
+87 Wolbeck                              225                251              272            280             321
+Stadtbezirk Südost                    1 029              1 082            1 125          1 159           1 224
+91 Berg Fidel                           390                390              420            422             445
+95 Hiltrup-Ost                          207                199              206            200             213
+96 Hiltrup-Mitte                        344                378              358            378             376
+97 Hiltrup-West                         516                545              551            576             565
+98 Amelsbüren                           293                328              358            370             373
+Stadtbezirk Hiltrup                   1 750              1 840            1 893          1 946           1 972
+Stadt Münster                         9 643            10 152           10 497         10 788          11 129
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+*) siehe Definitionsänderung ab 2011
+
+
+                                            Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                        www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                     E-Mail: statistik@stadt-muenster.de
+Haushalte der Wohnberechtigten Bevölkerung mit überwiegender
+Migrationsvorgeschichte
+                                    Haushalte der Wohnberechtigten Bevölkerung* mit überwiegender
+       Stadtteil
+                                               Migrationsvorgeschichte in Münster am 31.12.
+     Teilbereich
+     Stadtbezirk                 2009              2010             2011           2012         2013
+                                                                   Anzahl
+11 Aegidii                              142                144              149           144          149
+12 Überwasser                           170                162              179           174          184
+13 Dom                                  225                230              244           257          272
+14 Buddenturm                           180                186              202           202          212
+15 Martini                              135                141              156           157          151
+Altstadt                                852               863              930            934          968
+21 Pluggendorf                          403                428              440           466          479
+22 Josef                                709                721              738           770          798
+23 Bahnhof                              131                145              141           143          195
+24 Hansaplatz                           610                612              622           627          673
+25 Mauritz-West                         433                474              490           471          496
+26 Schlachthof                          394                415              446           452          453
+27 Kreuz                                796                804              842           862          891
+28 Neutor                               513                522              563           557          584
+29 Schloss                              189                195              199           196          211
+Innenstadtring                        4 178             4 316            4 481          4 544        4 780
+31 Aaseestadt                           714                721              741           718          669
+32 Geist                                813                823              839           818          826
+33 Schützenhof                          866                856              904           904          901
+34 Düesberg                             457                488              512           509          535
+Mitte-Süd                             2 850             2 888            2 996          2 949        2 931
+43 Hafen                                117                127              133           122          136
+44 Herz-Jesu                            369                369              372           382          398
+45 Mauritz-Mitte                        693                719              716           728          757
+46 Rumphorst                            612                615              624           631          658
+47 Uppenberg                            885                914              932           960          971
+Mitte-Nordost                         2 676             2 744            2 777          2 823        2 920
+Stadtbezirk Mitte                    10 556            10 811           11 184         11 250      11 599
+51 Gievenbeck                         2 701              2 557            2 775         2 856        2 896
+52 Sentrup                              578                604              587           612          618
+54 Mecklenbeck                          966                996            1 077           798          844
+56 Albachten                            468                475              493           525          532
+57 Roxel                                660                690              755           793          838
+58 Nienberge                            498                497              520           547          572
+Stadtbezirk West                      5 871              5 819            6 207         6 131        6 300
+61 Coerde                             1 808              1 842            1 895         1 961        1 997
+62 Kinderhaus-Ost                       578                574              599           614          631
+63 Kinderhaus-West                    1 467              1 547            1 678         1 650        1 621
+68 Sprakel                              186                190              201           218          223
+Stadtbezirk Nord                      4 039              4 153            4 373         4 443        4 472
+71 Mauritz-Ost                          678                649              670           669          689
+76 Gelmer-Dyckburg                      170                182              210           230          269
+77 Handorf                              499                514              534           560          554
+Stadtbezirk Ost                       1 347              1 345            1 414         1 459        1 512
+81 Gremmendorf-West                     429                447              455           470          491
+82 Gremmendorf-Ost                      406                419              460           482          535
+86 Angelmodde                           831                841              885           892        1 017
+87 Wolbeck                              553                573              588           602          646
+Stadtbezirk Südost                    2 219              2 280            2 388         2 446        2 689
+91 Berg Fidel                           993                994            1 036         1 058        1 058
+95 Hiltrup-Ost                          486                483              497           501          495
+96 Hiltrup-Mitte                        912                931              949           998          988
+97 Hiltrup-West                         905                921              955           967          984
+98 Amelsbüren                           377                376              398           425          432
+Stadtbezirk Hiltrup                   3 673              3 705            3 835         3 949        3 957
+Stadt Münster                        27 705            28 113           29 401         29 678      30 529
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+*) siehe Definitionsänderung ab 2011
+
+
+                                           Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                       www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                    E-Mail: statistik@stadt-muenster.de
+Haushalte mit überwiegender Migrationsvorgeschichte am 31.12.2013 nach
+Anzahl der Personen
+                                          Haushalte der Wohnberechtigten Bevölkerung in Münster
+         Stadtteil                       mit überwiegender Migrationsvorgeschichte am 31.12.2013
+        Teilbereich           Ins­     Anteil an allen             davon mit … Personen im Haushalt
+       Stadtbezirk          gesamt      Haushalten           1           2        3         4      5 und mehr
+                            Anzahl          in %                                Anzahl
+11 Aegidii                        149             15,0            99         44        4        2            -
+12 Überwasser                     184             17,5           133         36       10        4           1
+13 Dom                            272             16,9           175         78       11        7           1
+14 Buddenturm                     212             13,4           138         60       10        4            -
+15 Martini                        151             14,7           102         40        6        3            -
+Altstadt                          968             15,4          647        258        41       20           2
+21 Pluggendorf                    479             15,5           302        154       15        7           1
+22 Josef                          798             12,8           495        242       34       18           9
+23 Bahnhof                        195             20,8           143         40        8        4            -
+24 Hansaplatz                     673             13,5           430        188       32       19           4
+25 Mauritz-West                   496             11,7           305        148       26        8           9
+26 Schlachthof                    453             14,4           217        152       40       40           4
+27 Kreuz                          891             10,8           558        282       28       17           6
+28 Neutor                         584             19,4           324        217       24       13           6
+29 Schloss                        211             16,2           120         62       19        6           4
+Innenstadtring                  4 780             13,6        2 894      1 485      226       132          43
+31 Aaseestadt                     669             21,2           287        278       52       37          15
+32 Geist                          826             15,4           447        290       50       31           8
+33 Schützenhof                    901             17,5           474        297       69       42          19
+34 Düesberg                       535             15,1           260        201       33       26          15
+Mitte-Süd                       2 931             17,0        1 468      1 066      204       136          57
+43 Hafen                          136             17,2            93         26        7        7           3
+44 Herz-Jesu                      398             13,7           232        129       14       21           2
+45 Mauritz-Mitte                  757             12,2           377        305       37       34           4
+46 Rumphorst                      658             15,4           269        259       54       60          16
+47 Uppenberg                      971             19,1           530        301       73       54          13
+Mitte-Nordost                   2 920             15,2        1 501      1 020      185       176          38
+Stadtbezirk Mitte             11 599              14,9         6 510      3 829      656      464         140
+51 Gievenbeck                   2 896             27,2         1 041      1 190      304      276          85
+52 Sentrup                        618             13,9           297        224       41       35          21
+54 Mecklenbeck                    844             19,6           327        335       89       71          22
+56 Albachten                      532             21,2           151        193       65       92          31
+57 Roxel                          838             19,7           320        285       87      111          35
+58 Nienberge                      572             16,6           273        228       22       36          13
+Stadtbezirk West                6 300             21,3         2 409      2 455      608      621         207
+61 Coerde                       1 997             41,7           622        692      276      279         128
+62 Kinderhaus-Ost                 631             23,8           244        260       68       47          12
+63 Kinderhaus-West              1 621             33,0           515        621      208      179          98
+68 Sprakel                        223             16,7            73         94       22       30           4
+Stadtbezirk Nord                4 472             32,7         1 454      1 667      574      535         242
+71 Mauritz-Ost                    689             12,9           291        311       36       37          14
+76 Gelmer-Dyckburg                269             16,2           115         91       26       26          11
+77 Handorf                        554             15,9           188        255       52       42          17
+Stadtbezirk Ost                 1 512             14,4           594        657      114      105          42
+81 Gremmendorf-West               491             20,7           182        200       47       48          14
+82 Gremmendorf-Ost                535             17,4           256        191       37       38          13
+86 Angelmodde                   1 017             26,5           376        373      120       97          51
+87 Wolbeck                        646             15,6           246        265       56       54          25
+Stadtbezirk Südost              2 689             20,0         1 060      1 029      260      237         103
+91 Berg Fidel                   1 058             40,9           309        396      155      128          70
+95 Hiltrup-Ost                    495             16,5           144        249       49       41          12
+96 Hiltrup-Mitte                  988             19,1           404        390      108       65          21
+97 Hiltrup-West                   984             23,4           313        392      124      120          35
+98 Amelsbüren                     432             17,7           112        152       55       80          33
+Stadtbezirk Hiltrup             3 957             22,8         1 282      1 579      491      434         171
+Stadt Münster                 30 529              18,8       13 309     11 216     2 703    2 396         905
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+                                            Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                        www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                     E-Mail: statistik@stadt-muenster.de
+
