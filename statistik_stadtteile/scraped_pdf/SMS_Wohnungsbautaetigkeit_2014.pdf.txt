@@ -1,0 +1,659 @@
+Wohnungsbautätigkeit in Münster               STADT     1111111   MÜNSTER
+
+
+
+
+                                                           41
+        - Statistik für Münsters Stadtteile       ür • • Stadtentwicklung
+                                              Amt ~
+                                                  • •                Stadtplanung
+                                                                  Verkehrsplanung
+Wohnungsbautätigkeit
+     in Münster
+
+
+
+
+      Rückfragen: Informationsmanagement und Statistikdienststelle
+                  www.muenster.de/stadt/stadtplanung/zahlen.html
+                               E-Mail: statistik@stadt-muenster.de
+Impressum
+Herausgeberin:    Stadt Münster
+                  Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+                  48127 Münster
+
+Redaktion:        Fachstelle Informationsmanagement und
+                  Statistikdienststelle
+
+Information:      Telefon: 0251 / 492 – 1234
+                  Telefax: 0251 / 492 – 7732
+                  E-Mail: statistik@stadt-muenster.de
+                  Internet: http://statistik.stadt-muenster.de
+
+Druck:            Die Reihe „SMS – Statistik für Münsters Stadtteile“ ist nur
+                  als online-Medium verfügbar. Das PDF steht im Internet
+                  allen Nutzern kostenlos zur Verfügung.
+
+Januar 2015
+
+© Stadt Münster, Amt für Stadtentwicklung, Stadtplanung,
+Verkehrsplanung
+Für nicht gewerbliche Zwecke sind Vervielfältigungen und unentgeltliche
+Verbreitung, auch auszugsweise, mit Quellenangabe gestattet. Die
+Verbreitung, auch auszugsweise, über elektronische Systeme/Datenträger
+bedarf der vorherigen Zustimmung. Alle übrigen Rechte bleiben vorenthalten.
+
+
+
+
+                                Rückfragen: Informationsmanagement und Statistikdienststelle
+                                            www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                         E-Mail: statistik@stadt-muenster.de
+SMS – Statistik für Münsters Stadtteile
+Für viele Aufgaben, Planungen oder Interessensschwerpunkte reichen die
+Informationen, die gesamtstädtisch zur Verfügung stehen, nicht aus.
+Kleinräumige Daten, insbesondere Informationen auf Stadtteilebene, werden
+immer häufiger von Bürgern, Investoren, Wissenschaftlern, Politikern oder
+Institutionen nachgefragt. Um diesen Informationsbedarf zu decken, wurde die
+SMS – Statistik für Münsters Stadtteile konzipiert, die themenspezifisch die 45
+Stadtteile und die 6 Stadtbezirke in den Kontext zur Gesamtstadt stellt. Die
+SMS bündelt aussagekräftige Daten eines Themenbereiches zu einer
+kompakten Informationseinheit und stellt sie den Nutzern kleinräumig zur
+Verfügung.
+
+Wieso Daten zur Bautätigkeit?
+Wo wird gebaut? Was wird gebaut? Wo wird neuer Wohnraum geschaffen?
+Diese und andere Fragestellungen werden häufig an die Statistikdienststelle
+gestellt. Die Antworten sind für viele infrastrukturelle Beobachtungen ein
+wichtiger Baustein.
+
+Rechtliche Grundlagen
+Die Statistik der Bautätigkeit ist angeordnet durch das Gesetz über die Statistik
+der Bautätigkeit im Hochbau und die Fortschreibung des Wohnungsbestandes
+(Hochbaustatistikgesetz – HBauStatG) vom 5. Mai 1998 (BGBI. I S. 869),
+zuletzt geändert durch Artikel 4 des Gesetzes vom 22. August 2006 (BGBI. I S.
+1970) in Verbindung mit dem Gesetz über die Statistik für Bundeszwecke
+(Bundesstatistikgesetz – BStatG) vom 22. Januar 1987 (BGBI. I S. 462, 565),
+zuletzt geändert durch Artikel 3 des Gesetzes vom 7. September 2007 (BGBI. I
+S. 2246) und der Verordnung über die zuständige Behörde für
+Bundesstatistiken vom 11. Februar 1980 (GV NW S. 99).
+
+Erhobene Daten
+Die vorliegenden Daten bilden nur einen Teil der erhobenen Daten ab. Die zu
+Grunde liegenden aktuellen Erhebungsbögen können unter
+http://www.statistik-bw.de/baut/html/ eingesehen werden.
+                                        UH
+
+
+
+
+                                Rückfragen: Informationsmanagement und Statistikdienststelle
+                                            www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                         E-Mail: statistik@stadt-muenster.de
+Definitionen
+Abbrüche
+Ein Abbruch liegt vor, wenn die Bausubstanz, das heißt die Summe des
+nutzbaren Bauvolumens, durch Baumaßnahmen oder infolge anderer Ursachen
+vermindert wird.
+
+Baufertigstellungen im Neu- und Umbau
+Bauvorhaben, bei denen die Bauarbeiten weitgehend abgeschlossen und die
+Gebäude bzw. Wohnungen bereits bezugsfertig oder bezogen sind, werden als
+fertig gestellt bezeichnet. Entscheidend für den Zeitpunkt der Fertigstellung ist
+nicht die Gebrauchsabnahme (früher: baupolizeiliche Schlussabnahme),
+sondern die Möglichkeit des Beginns der Nutzung (Bezugsfertigkeit).
+
+Wenn nur noch Schönheitsarbeiten vorzunehmen sind oder der Verputz an
+einem Gebäude aufzutragen ist, gilt das Bauvorhaben als fertig gestellt. Auch
+ein Gebäude, das bezugsfertig, aber noch nicht bezogen ist, gilt als fertig
+gestellt.
+
+Erweiterungen
+-> siehe Umbau.
+
+Neubau
+Unter Errichtung neuer Gebäude werden Neubauten und Wiederaufbauten
+verstanden. Als Wiederaufbau gilt der Aufbau zerstörter oder abgerissener
+Gebäude ab Oberkante des noch vorhandenen Kellergeschosses.
+
+Nichtwohngebäude
+Gebäude, in denen weniger als die Hälfte der Gesamtnutzfläche für
+Wohnzwecke genutzt wird.
+
+Saldierte Wohnungsveränderungen
+Durch die neuen Erfassungsbögen der Bautätigkeitsstatistik können ab 2012
+auch Nutzungsänderungen festgehalten werden, wenn z.B. Wohn- zu
+Gewerbefläche umgewandelt wird. Dadurch können bei der Auswertung
+negative Werte entstehen, obwohl es sich um Baufertigstellungen handelt.
+
+
+
+
+                                 Rückfragen: Informationsmanagement und Statistikdienststelle
+                                             www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                          E-Mail: statistik@stadt-muenster.de
+Stadtteil
+Die Stadtteile der Stadt Münster sind identisch mit den Statistischen Bezirken.
+Beide Begriffe werden synonym benutzt.
+
+Umbau
+Baumaßnahmen an bestehenden Gebäuden sind bauliche Veränderungen an
+bestehenden Gebäuden durch Umbau-, Ausbau-, Erweiterungs- oder
+Wiederherstellungsmaßnahmen. Zu- und Abgänge (neuer Zustand und alter
+Zustand) an Wohnungen werden saldiert.
+
+Wohngebäude
+Gebäude, die mindestens zur Hälfte der Gesamtnutzfläche zu Wohnzwecken
+genutzt werden.
+
+Wohnheime
+Wohnheime sind Wohngebäude, die primär den Wohnbedürfnissen bestimmter
+Bevölkerungskreise dienen. Wohnheime besitzen Gemeinschaftsräume. Die
+Bewohner und Bewohnerinnen führen einen eigenen Haushalt.
+
+Zeichenerklärung
+-       Zahlenwert genau null
+
+.       Zahlenwert geheim zu halten oder nicht verfügbar
+
+…       Daten liegen zum Zeitpunkt der Veröffentlichung noch nicht vor
+
+X       Nachweis nicht sinnvoll
+
+r       berichtigte Zahl
+
+
+
+
+                                  Rückfragen: Informationsmanagement und Statistikdienststelle
+                                              www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                           E-Mail: statistik@stadt-muenster.de
+Saldierte Wohnungsveränderungen durch Baufertigstellungen
+                                      Saldierte Wohnungsveränderungen durch Baufertigstellungen
+        Stadtteil
+                                                   im Neu- und Umbau in Münster im Jahr
+      Teilbereich
+                                 2010              2011             2012           2013         2014
+      Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                                4                  1               11              -           1
+12 Überwasser                             2                   -               4              -            -
+13 Dom                                    9                  6               10             2            1
+14 Buddenturm                              -                 3               25             2            2
+15 Martini                                4                  5                1             1             -
+Altstadt                                 19                 15               51             5            4
+21 Pluggendorf                            2                  4                9            35           40
+22 Josef                                  5                 17               14           261           12
+23 Bahnhof                                1                   -              21              -          25
+24 Hansaplatz                            40                  6                1             3           37
+25 Mauritz-West                          36                 11               16            46           15
+26 Schlachthof                          100                 63                2            58           64
+27 Kreuz                                 47                 65               74            27            8
+28 Neutor                                52                 42               25             6           77
+29 Schloss                               76                   -               2             4           16
+Innenstadtring                          359               208              164           440          294
+31 Aaseestadt                            23                  7               22            27           16
+32 Geist                                 13                  3               31            21           17
+33 Schützenhof                             -                45              109            43           61
+34 Düesberg                              32                 39               32            33           17
+Mitte-Süd                                68                 94             194           124          111
+43 Hafen                                   -                  -               1             1             -
+44 Herz-Jesu                             11                  1               22            18           48
+45 Mauritz-Mitte                         21                  6               52            65           38
+46 Rumphorst                             56                  3               15            13            5
+47 Uppenberg                             68                 53               50            61           17
+Mitte-Nordost                           156                 63             140           158          108
+ Mitte                                  602                380              549           727          517
+51 Gievenbeck                           197                399              335           344           29
+52 Sentrup                              157                 43              231           149           25
+54 Mecklenbeck                          106                 11               11           229          239
+56 Albachten                             13                 60               48            53           65
+57 Roxel                                 33                 69               90            52           78
+58 Nienberge                             57                 69               15            15            8
+ West                                   563                651              730           842          444
+61 Coerde                                30                 25               28             9           31
+62 Kinderhaus-Ost                         3                  7                6            11            6
+63 Kinderhaus-West                        1                 13               12            37           75
+68 Sprakel                               11                 10               13            22           10
+ Nord                                    45                 55               59            79          122
+71 Mauritz-Ost                           17                 65              210            40           53
+76 Gelmer-Dyckburg                       32                19r               27            17           21
+77 Handorf                               36                 55               55            56           31
+ Ost                                     85               139r              292           113          105
+81 Gremmendorf-West                       5                  3                6            18            4
+82 Gremmendorf-Ost                       27                 53                2            19           27
+86 Angelmodde                            18                 24               28            35           48
+87 Wolbeck                               73                 51               57            32           72
+ Südost                                 123                131               93           104          151
+91 Berg Fidel                              -                  -              17            12            9
+95 Hiltrup-Ost                           12                  8                4             5            7
+96 Hiltrup-Mitte                         22                 38               40            14           25
+97 Hiltrup-West                          19                 34              105            54           59
+98 Amelsbüren                            48                 27               38            10            8
+ Hiltrup                                101                107              204            95          108
+Stadt Münster                         1 519             1 463r            1 927         1 960        1 447
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+
+                                           Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                       www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                    E-Mail: statistik@stadt-muenster.de
+Saldierte Wohnungsveränderungen durch Baufertigstellungen im Neubau
+                                      Saldierte Wohnungsveränderungen durch Baufertigstellungen
+        Stadtteil
+                                                        im Neubau in Münster im Jahr
+      Teilbereich
+                                 2010              2011             2012            2013        2014
+      Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                                4                  1               11               -           -
+12 Überwasser                              -                  -                -              -           -
+13 Dom                                     -                  -               9               -           -
+14 Buddenturm                              -                  -              15               -          2
+15 Martini                                4                  2                 -              -           -
+Altstadt                                  8                  3               35              -           2
+21 Pluggendorf                             -                  -               8             29          39
+22 Josef                                  5                 13                 -            18           8
+23 Bahnhof                                 -                  -              14               -           -
+24 Hansaplatz                            34                   -                -              -         29
+25 Mauritz-West                            -                11               11             31          11
+26 Schlachthof                           99                 62                 -            58          64
+27 Kreuz                                 35                 18               71             20           4
+28 Neutor                                51                 42               25              2          77
+29 Schloss                               73                   -               2              4           9
+Innenstadtring                          297               146              131            162         241
+31 Aaseestadt                            16                  3               21             25          14
+32 Geist                                 12                   -              29             13          17
+33 Schützenhof                             -                13               93             39          60
+34 Düesberg                              26                 36               28             27          17
+Mitte-Süd                                54                 52             171            104         108
+43 Hafen                                   -                  -                -             1            -
+44 Herz-Jesu                              8                  1               20             18          46
+45 Mauritz-Mitte                         13                  6               48             58          31
+46 Rumphorst                             48                   -                -             2           5
+47 Uppenberg                             64                 43               37             54          13
+Mitte-Nordost                           133                 50             105            133           95
+ Mitte                                  492                251              442            399         446
+51 Gievenbeck                           196                398              307            341          21
+52 Sentrup                              157                 41              231            149          22
+54 Mecklenbeck                          105                 10               11            229         235
+56 Albachten                             12                 59               44             45          65
+57 Roxel                                 32                 67               87             50          74
+58 Nienberge                             53                 66               13             13           7
+ West                                   555                641              693            827         424
+61 Coerde                                30                 23               28              5          31
+62 Kinderhaus-Ost                         2                  7                3             10           6
+63 Kinderhaus-West                        1                 11               11             33          71
+68 Sprakel                               11                  7               12             20           8
+ Nord                                    44                 48               54             68         116
+71 Mauritz-Ost                           14                 64              207             40          50
+76 Gelmer-Dyckburg                       31                14r               26             14          20
+77 Handorf                               31                 46               51             47          28
+ Ost                                     76               124r              284            101          98
+81 Gremmendorf-West                       3                  3                3             17           2
+82 Gremmendorf-Ost                       26                 53                 -            19          27
+86 Angelmodde                            18                 23               28             33          46
+87 Wolbeck                               73                 47               54             31          63
+ Südost                                 120                126               85            100         138
+91 Berg Fidel                              -                  -              15              6           8
+95 Hiltrup-Ost                           12                  6                4              5           3
+96 Hiltrup-Mitte                         18                 36               35             12          19
+97 Hiltrup-West                          18                 34              104             46          56
+98 Amelsbüren                            42                 23               27              6           4
+ Hiltrup                                 90                 99              185             75          90
+Stadt Münster                         1 377             1 289r            1 743          1 570       1 312
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+
+                                           Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                       www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                    E-Mail: statistik@stadt-muenster.de
+Saldierte Wohnungsveränderungen durch Baufertigstellungen im Umbau
+                                      Saldierte Wohnungsveränderungen durch Baufertigstellungen
+       Stadtteil
+                                                        im Umbau in Münster im Jahr
+     Teilbereich
+                                 2010              2011             2012            2013        2014
+     Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                                 -                 -                -             -            1
+12 Überwasser                             2                  -               4              -             -
+13 Dom                                    9                 6                1             2             1
+14 Buddenturm                              -                3               10             2              -
+15 Martini                                 -                3                1             1              -
+Altstadt                                 11                12               16             5             2
+21 Pluggendorf                            2                 4                1             6             1
+22 Josef                                   -                4               14           243             4
+23 Bahnhof                                1                  -               7              -           25
+24 Hansaplatz                             6                 6                1             3             8
+25 Mauritz-West                          36                  -               5            15             4
+26 Schlachthof                            1                 1                2              -             -
+27 Kreuz                                 12                47                3             7             4
+28 Neutor                                 1                  -                -            4              -
+29 Schloss                                3                  -                -             -            7
+Innenstadtring                           62                62               33           278            53
+31 Aaseestadt                             7                 4                1             2             2
+32 Geist                                  1                 3                2             8              -
+33 Schützenhof                             -               32               16             4             1
+34 Düesberg                               6                 3                4             6              -
+Mitte-Süd                                14                42               23            20             3
+43 Hafen                                   -                 -               1              -             -
+44 Herz-Jesu                              3                  -               2              -            2
+45 Mauritz-Mitte                          8                  -               4             7             7
+46 Rumphorst                              8                 3               15            11              -
+47 Uppenberg                              4                10               13             7             4
+Mitte-Nordost                            23                13               35            25            13
+ Mitte                                  110               129              107           328            71
+51 Gievenbeck                             1                 1               28             3             8
+52 Sentrup                                 -                2                 -             -            3
+54 Mecklenbeck                            1                 1                 -             -            4
+56 Albachten                              1                 1                4             8              -
+57 Roxel                                  1                 2                3             2             4
+58 Nienberge                              4                 3                2             2             1
+ West                                     8                10               37            15            20
+61 Coerde                                  -                2                 -            4              -
+62 Kinderhaus-Ost                         1                  -               3             1              -
+63 Kinderhaus-West                         -                2                1             4             4
+68 Sprakel                                 -                3                1             2             2
+ Nord                                     1                 7                5            11             6
+71 Mauritz-Ost                            3                 1                3              -            3
+76 Gelmer-Dyckburg                        1                 5                1             3             1
+77 Handorf                                5                 9                4             9             3
+ Ost                                      9                15                8            12             7
+81 Gremmendorf-West                       2                  -               3             1             2
+82 Gremmendorf-Ost                        1                  -               2              -             -
+86 Angelmodde                              -                1                 -            2             2
+87 Wolbeck                                 -                4                3             1             9
+ Südost                                   3                 5                8             4            13
+91 Berg Fidel                              -                 -               2             6             1
+95 Hiltrup-Ost                             -                2                 -             -            4
+96 Hiltrup-Mitte                          4                 2                5             2             6
+97 Hiltrup-West                           1                  -               1             8             3
+98 Amelsbüren                             6                 4               11             4             4
+ Hiltrup                                 11                 8               19            20            18
+Stadt Münster                           142               174              184           390           135
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+
+                                          Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                      www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                   E-Mail: statistik@stadt-muenster.de
+Saldierte Wohnungsveränderungen durch Baufertigstellungen in
+Wohngebäuden
+                                      Saldierte Wohnungsveränderungen durch Baufertigstellungen
+        Stadtteil
+                                         im Neu- und Umbau in Wohngebäuden in Münster im Jahr
+      Teilbereich
+                                 2010              2011             2012         2013           2014
+      Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                                  -                1               11            -             1
+12 Überwasser                              2                  -               4            -              -
+13 Dom                                     1                 6                 -          2              1
+14 Buddenturm                               -                3               25           2               -
+15 Martini                                 4                 5                1           1               -
+Altstadt                                   7                15               41           5              2
+21 Pluggendorf                             2                 4                9          35             40
+22 Josef                                   5                17               14          93             12
+23 Bahnhof                                 1                  -               7            -            20
+24 Hansaplatz                             38                 6                1           3             37
+25 Mauritz-West                           36                11               16          38             15
+26 Schlachthof                          100                 63                1          58             64
+27 Kreuz                                  47                65               76          27              8
+28 Neutor                                 52                42               25           6             77
+29 Schloss                                28                  -               2           4             16
+Innenstadtring                          309               208              151         264            289
+31 Aaseestadt                             23                 7               22          27             16
+32 Geist                                  13                 3               27          21             17
+33 Schützenhof                              -               45              109          43             61
+34 Düesberg                               32                39               32          33             17
+Mitte-Süd                                68                 94             190         124            111
+43 Hafen                                    -                 -               1            -              -
+44 Herz-Jesu                              11                 1               22          18             48
+45 Mauritz-Mitte                          21                 6               52          65             39
+46 Rumphorst                              56                 3               15          13              5
+47 Uppenberg                              68                53               50          61             17
+Mitte-Nordost                           156                 63             140         157            109
+ Mitte                                  540                380              522         550            511
+51 Gievenbeck                           160                396              191          30             30
+52 Sentrup                              157                 43               22          21             25
+54 Mecklenbeck                          106                 11               11          10             10
+56 Albachten                              13                60               48          53             65
+57 Roxel                                  33                68               81          50             78
+58 Nienberge                              45                50               14          15              8
+ West                                   514                628              367         179            216
+61 Coerde                                 30                25               28           9             31
+62 Kinderhaus-Ost                          3                 7                6          10              2
+63 Kinderhaus-West                         1                13               12          37             57
+68 Sprakel                                11                10               13          22             10
+ Nord                                     45                55               59          78            100
+71 Mauritz-Ost                            17                65              210          40             52
+76 Gelmer-Dyckburg                        32               19r               27          17             21
+77 Handorf                                35                55               54          55             31
+ Ost                                      84              139r              291         112            104
+81 Gremmendorf-West                        5                 3                6          17              4
+82 Gremmendorf-Ost                        26                53                2          19             27
+86 Angelmodde                             18                24               28          35             48
+87 Wolbeck                                73                51               56          31             72
+ Südost                                 122                131               92         102            151
+91 Berg Fidel                               -                 -              17          12              8
+95 Hiltrup-Ost                            12                 8                4           4              7
+96 Hiltrup-Mitte                          22                38               38          14             10
+97 Hiltrup-West                           19                34              101          47             57
+98 Amelsbüren                             48                27               38          10              8
+ Hiltrup                                101                107              198          87             90
+Stadt Münster                         1 406             1 440r            1 529       1 108          1 172
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+
+                                           Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                       www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                    E-Mail: statistik@stadt-muenster.de
+Saldierte Wohnungsveränderungen durch Baufertigstellungen in
+Nichtwohngebäuden
+                                       Saldierte Wohnungsveränderungen durch Baufertigstellungen
+        Stadtteil
+                                      im Neu- und Umbau in Nichtwohngebäuden in Münster im Jahr
+      Teilbereich
+                                 2010              2011             2012         2013            2014
+      Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                                4                  -                 -           -              -
+12 Überwasser                               -                -                 -           -              -
+13 Dom                                    8                  -              10             -              -
+14 Buddenturm                               -                -                 -           -             2
+15 Martini                                  -                -                 -           -              -
+Altstadt                                 12                 -               10            -              2
+21 Pluggendorf                              -                -                 -           -              -
+22 Josef                                    -                -                 -           -              -
+23 Bahnhof                                  -                -              14             -             5
+24 Hansaplatz                             2                  -                 -           -              -
+25 Mauritz-West                             -                -                 -          8               -
+26 Schlachthof                              -                -               1             -              -
+27 Kreuz                                    -                -              -2             -              -
+28 Neutor                                   -                -                 -           -              -
+29 Schloss                               48                  -                 -           -              -
+Innenstadtring                           50                 -               13            8              5
+31 Aaseestadt                               -                -                 -           -              -
+32 Geist                                    -                -               4             -              -
+33 Schützenhof                              -                -                 -           -              -
+34 Düesberg                                 -                -                 -           -              -
+Mitte-Süd                                  -                -                4            -              -
+43 Hafen                                    -                -                 -          1               -
+44 Herz-Jesu                                -                -                 -           -              -
+45 Mauritz-Mitte                            -                -                 -           -            -1
+46 Rumphorst                                -                -                 -           -              -
+47 Uppenberg                                -                -                 -           -              -
+Mitte-Nordost                              -                -                 -           1             -1
+ Mitte                                   62                  -              27            9              6
+51 Gievenbeck                             1                 3                1             -            -1
+52 Sentrup                                  -                -                 -           -              -
+54 Mecklenbeck                              -                -                 -           -             1
+56 Albachten                                -                -                 -           -              -
+57 Roxel                                    -               1                9            2               -
+58 Nienberge                                -              19                1             -              -
+ West                                     1                23               11            2               -
+61 Coerde                                   -                -                 -           -              -
+62 Kinderhaus-Ost                           -                -                 -          1               -
+63 Kinderhaus-West                          -                -                 -           -            18
+68 Sprakel                                  -                -                 -           -              -
+ Nord                                       -                -                 -          1             18
+71 Mauritz-Ost                              -                -                 -           -             1
+76 Gelmer-Dyckburg                          -                -                 -           -              -
+77 Handorf                                1                  -               1            1               -
+ Ost                                      1                  -               1            1              1
+81 Gremmendorf-West                         -                -                 -          1               -
+82 Gremmendorf-Ost                          -                -                 -           -              -
+86 Angelmodde                               -                -                 -           -              -
+87 Wolbeck                                  -                -               1            1               -
+ Südost                                     -                -               1            2               -
+91 Berg Fidel                               -                -                 -           -             1
+95 Hiltrup-Ost                              -                -                 -          1               -
+96 Hiltrup-Mitte                            -                -               2             -            15
+97 Hiltrup-West                             -                -               4            7              2
+98 Amelsbüren                               -                -                 -           -              -
+ Hiltrup                                    -                -               6            8             18
+Stadt Münster                            64                23               46           23             43
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+
+                                           Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                       www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                    E-Mail: statistik@stadt-muenster.de
+Saldierte Wohnungsveränderungen durch Baufertigstellungen in Wohnheimen
+                                      Saldierte Wohnungsveränderungen durch Baufertigstellungen
+       Stadtteil
+                                           in Neu- und Umbau in Wohnheimen in Münster im Jahr
+     Teilbereich
+                                 2010              2011             2012         2013           2014
+     Stadtbezirk
+                                                                   Anzahl
+11 Aegidii                                  -                -                 -           -              -
+12 Überwasser                               -                -                 -           -              -
+13 Dom                                      -                -                 -           -              -
+14 Buddenturm                               -                -                 -           -              -
+15 Martini                                  -                -                 -           -              -
+Altstadt                                   -                -                 -           -              -
+21 Pluggendorf                              -                -                 -           -              -
+22 Josef                                    -                -                 -        168               -
+23 Bahnhof                                  -                -                 -           -              -
+24 Hansaplatz                               -                -                 -           -              -
+25 Mauritz-West                             -                -                 -           -              -
+26 Schlachthof                              -                -                 -           -              -
+27 Kreuz                                    -                -                 -           -              -
+28 Neutor                                   -                -                 -           -              -
+29 Schloss                                  -                -                 -           -              -
+Innenstadtring                             -                -                 -         168              -
+31 Aaseestadt                               -                -                 -           -              -
+32 Geist                                    -                -                 -           -              -
+33 Schützenhof                              -                -                 -           -              -
+34 Düesberg                                 -                -                 -           -              -
+Mitte-Süd                                  -                -                 -           -              -
+43 Hafen                                    -                -                 -           -              -
+44 Herz-Jesu                                -                -                 -           -              -
+45 Mauritz-Mitte                            -                -                 -           -              -
+46 Rumphorst                                -                -                 -           -              -
+47 Uppenberg                                -                -                 -           -              -
+Mitte-Nordost                              -                -                 -           -              -
+ Mitte                                      -                -                 -        168               -
+51 Gievenbeck                            36                  -             143          314               -
+52 Sentrup                                  -                -             209          128               -
+54 Mecklenbeck                              -                -                 -        219            228
+56 Albachten                                -                -                 -           -              -
+57 Roxel                                    -                -                 -           -              -
+58 Nienberge                             12                  -                 -           -              -
+ West                                    48                  -             352          661            228
+61 Coerde                                   -                -                 -           -              -
+62 Kinderhaus-Ost                           -                -                 -           -             4
+63 Kinderhaus-West                          -                -                 -           -              -
+68 Sprakel                                  -                -                 -           -              -
+ Nord                                       -                -                 -           -             4
+71 Mauritz-Ost                              -                -                 -           -              -
+76 Gelmer-Dyckburg                          -                -                 -           -              -
+77 Handorf                                  -                -                 -           -              -
+ Ost                                        -                -                 -           -              -
+81 Gremmendorf-West                         -                -                 -           -              -
+82 Gremmendorf-Ost                        1                  -                 -           -              -
+86 Angelmodde                               -                -                 -           -              -
+87 Wolbeck                                  -                -                 -           -              -
+ Südost                                   1                  -                 -           -              -
+91 Berg Fidel                               -                -                 -           -              -
+95 Hiltrup-Ost                              -                -                 -           -              -
+96 Hiltrup-Mitte                            -                -                 -           -              -
+97 Hiltrup-West                             -                -                 -           -              -
+98 Amelsbüren                               -                -                 -           -              -
+ Hiltrup                                    -                -                 -           -              -
+Stadt Münster                            49                  -             352          829            232
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+
+                                          Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                      www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                   E-Mail: statistik@stadt-muenster.de
+Verlust von Wohnungen durch Abbrüche
+        Stadtteil                      Verlust von Wohnungen durch Abbrüche in Münster im Jahr
+      Teilbereich               2010              2011              2012           2013          2014
+      Stadtbezirk                                                  Anzahl
+11 Aegidii                                 -                4                  -             -             -
+12 Überwasser                              -                 -                 -             -             -
+13 Dom                                   12                  -                 -             -             -
+14 Buddenturm                              -                5                  -           13              -
+15 Martini                                 -                 -                 -             -             -
+Altstadt                                 12                 9                 -            13             -
+21 Pluggendorf                            8                23                  -            1              -
+22 Josef                                 11                  -               1              3              -
+23 Bahnhof                                 -                 -                 -             -             -
+24 Hansaplatz                              -                 -                 -            1              -
+25 Mauritz-West                           7                  -              16              7             3
+26 Schlachthof                            3                 9                1              1             2
+27 Kreuz                                  2                 2                1              6              -
+28 Neutor                                16                  -               3             13             1
+29 Schloss                                1                 1                2              1             2
+Innenstadtring                           48                35               24             33             8
+31 Aaseestadt                             2                 3                4              7             4
+32 Geist                                   -                1                5             22              -
+33 Schützenhof                             -                 -                 -            2             8
+34 Düesberg                               3                 4                5              4             6
+Mitte-Süd                                 5                 8               14             35            18
+43 Hafen                                   -                 -                 -             -             -
+44 Herz-Jesu                               -                1               42              1              -
+45 Mauritz-Mitte                          2                22                  -            6             3
+46 Rumphorst                               -                2                  -             -            2
+47 Uppenberg                              2                  -               1              6             9
+Mitte-Nordost                             4                25               43             13            14
+ Mitte                                   69                77               81             94            40
+51 Gievenbeck                           537                 6                3              9            10
+52 Sentrup                                9                39                5              1            22
+54 Mecklenbeck                            2                 2              725              3             7
+56 Albachten                               -                 -                 -            4             1
+57 Roxel                                  6                 3                2              7              -
+58 Nienberge                               -                3                3              5             1
+ West                                   554                53              738             29            41
+61 Coerde                                  -                 -                 -             -            1
+62 Kinderhaus-Ost                         1                 2                1               -            3
+63 Kinderhaus-West                        3                  -               1              1              -
+68 Sprakel                                1                 1                  -            3             3
+ Nord                                     5                 3                2              4             7
+71 Mauritz-Ost                           11                 9               11             12            12
+76 Gelmer-Dyckburg                         -                4                1              2              -
+77 Handorf                                 -                2                1               -            1
+ Ost                                     11                15               13             14            13
+81 Gremmendorf-West                       1                 1                  -            1             1
+82 Gremmendorf-Ost                         -                8                7              2             2
+86 Angelmodde                              -                1                4              5             2
+87 Wolbeck                                2                  -                 -            5             2
+ Südost                                   3                10               11             13             7
+91 Berg Fidel                             1                 2                  -             -             -
+95 Hiltrup-Ost                             -                1                  -            2              -
+96 Hiltrup-Mitte                          6                 4               11              2             6
+97 Hiltrup-West                           1                 3                  -             -             -
+98 Amelsbüren                             3                  -                 -            1              -
+ Hiltrup                                 11                10               11              5             6
+Stadt Münster                           653               168              856            159           114
+Quelle: Stadt Münster - Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung
+
+
+                                              Rückfragen: Informationsmanagement und Statistikdienststelle
+                                                          www.muenster.de/stadt/stadtplanung/zahlen.html
+                                                                       E-Mail: statistik@stadt-muenster.de
+
