@@ -29,7 +29,7 @@ Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (
 - [Mietspiegel Münster 2014](http://www.wohnungsboerse.net/mietspiegel-Muenster/5389)
 - [Beliebteste Vornamen in Münster ab 2007](http://www.stadt-muenster.de/standesamt/geburten/vorname.html)
 - [Münster Karte](http://aa-zoo.de/muenster-map/) Regionen die früher anders genutzt worden sind als heute (kml)
-- [Trinkwasser Werte 2013 (PDF)](https://www.stadtwerke-muenster.de/fileadmin/stwms/trinkwasser/produkte/dokumente/SWMS_Trinkwasseranalyse_2013.pdf)
+- Trinkwasser Werte (PDF) [2013](https://www.stadtwerke-muenster.de/fileadmin/stwms/trinkwasser/produkte/dokumente/SWMS_Trinkwasseranalyse_2013.pdf), [2014](https://www.stadtwerke-muenster.de/fileadmin/stwms/trinkwasser/produkte/dokumente/SWMS_Trinkwasseranalyse_2014.pdf)
 
 ### Gesamtdeutschland und Europa
 - [Open Data Index von der OKF](https://index.okfn.org/country/overview/Germany/)
