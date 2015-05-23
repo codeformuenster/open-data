@@ -1,0 +1,23 @@
+Parameter,Einheit,Geist,Hohe Ward,Kinderhaus,Hornheide,BezugGelsenwasserAG,Grenzwert/Richtwert
+Wassertemperatur,°C,12.8,12.3,11.5,11.9,12.1,-
+pH-Wert,ohne,7.40,7.45,7.40,7.40,7.52,6.5 - 9.5
+Leitfähigkeit,μS/cm,719,625,784,711,493,2790 (25°C)
+Calcium,mg/l,105.0,76.2,114.0,96.4,68.4,-
+Magnesium,mg/l,9.4,5.9,12.6,6.4,4.3,-
+Eisen,mg/l,0.01,0.015,< 0.01,< 0.01,< 0.01,0.2
+Mangan,mg/l,< 0.005,< 0.005,< 0.005,< 0.005,< 0.005,0.05
+Fluorid,mg/l,0.15,0.17,0.07,0.12,0.16,1.5
+Aluminium,mg/l,< 0.02,< 0.02,< 0.02,< 0.02,< 0.02,0.2
+Chlorid,mg/l,56.3,55.1,39.7,54.6,29.8,250
+Nitrat,mg/l,12.9,11.3,16.0,9.4,18.1,50
+Nitrit,mg/l,< 0.01,< 0.01,< 0.01,< 0.01,< 0.01,0.1
+Sulfat,mg/l,93.3,56.5,108.0,71.3,48.9,250
+Natrium,mg/l,31.5,36.0,24.2,34.8,20.1,200
+Kalium,mg/l,6.7,4.4,6.2,5.3,4.9,-
+TOC,mg/l,1.65,1.50,1.70,2.40,2.50,ohne anormale Veränderungen
+Gesamthärte,°dH,16.9,12.0,18.9,14.9,10.6,-
+GesamthärteMol,mmol/l,3.01,2.13,3.36,2.67,1.88,-
+Härtebereich,ohne,hart (3)*,mittel (2)*,hart (3)*,hart (3)*,mittel (2)*,-
+Karbonathärte,°dH,11.7,8.9,13,11.5,7.6,-
+Säurekapazität,mmol/l,4.18,3.21,4.65,4.09,2.73,-
+Basekapazität,mmol/l,0.27,0.29,0.49,0.47,0.21,-
