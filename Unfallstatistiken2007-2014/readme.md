@@ -1,8 +1,8 @@
-Die Rohdaten der Verkehrsunfallstatistik Münster der Jahre 2007-2014 als Excel-Dateien.
+Die Rohdaten der Verkehrsunfallstatistik MÃ¼nster der Jahre 2007-2014 als Excel-Dateien.
 
 
 
-Text der Mailanfrage über www.fragdenstaat.de
+Text der Mailanfrage Ã¼ber www.fragdenstaat.de
 
 "Antrag nach dem Informationsfreiheitsgesetz NRW, UIG NRW, VIG
 
@@ -10,33 +10,33 @@ Sehr geehrte Damen und Herren,
 
 bitte senden Sie mir Folgendes zu:
 
-die Rohdaten für die Verkehrsunfallstatistik 2007-2014 Münster.
+die Rohdaten fÃ¼r die Verkehrsunfallstatistik 2007-2014 MÃ¼nster.
 Es interessieren vor allem die Ortsangaben und Geoinformationen - also die Rohdaten zu den in der Verkehrsunfallstatistik ausgewiesenen Risikobereichen - zu jedem registrierten Unfall.
 
 
-Dies ist ein Antrag nach dem Gesetz über die Freiheit des Zugangs zu Informationen für das Land Nordrhein-Westfalen (Informationsfreiheitsgesetz Nordrhein-Westfalen – IFG NRW), dem Umweltinformationsgesetz Nordrhein-Westfalen (soweit Umweltinformationen betroffen sind) und dem Verbraucherinformationsgesetz des Bundes (soweit Verbraucherinformationen betroffen sind).
+Dies ist ein Antrag nach dem Gesetz Ã¼ber die Freiheit des Zugangs zu Informationen fÃ¼r das Land Nordrhein-Westfalen (Informationsfreiheitsgesetz Nordrhein-Westfalen â€“ IFG NRW), dem Umweltinformationsgesetz Nordrhein-Westfalen (soweit Umweltinformationen betroffen sind) und dem Verbraucherinformationsgesetz des Bundes (soweit Verbraucherinformationen betroffen sind).
 
-Ausschlussgründe liegen meines Erachtens nicht vor.
+AusschlussgrÃ¼nde liegen meines Erachtens nicht vor.
 
-Aus Gründen der Billigkeit und insbesondere auf Grund des Umstands, dass die Auskunft in gemeinnütziger Art der Öffentlichkeit zur Verfügung gestellt werden wird, bitte ich Sie, nach § 2 VerwGebO IFG NRW von der Erhebung von Gebühren abzusehen. Soweit Umweltinformationen betroffen sind, handelt es sich hierbei um eine einfache Anfrage nach §5 (2) UIG NRW.
+Aus GrÃ¼nden der Billigkeit und insbesondere auf Grund des Umstands, dass die Auskunft in gemeinnÃ¼tziger Art der Ã–ffentlichkeit zur VerfÃ¼gung gestellt werden wird, bitte ich Sie, nach Â§ 2 VerwGebO IFG NRW von der Erhebung von GebÃ¼hren abzusehen. Soweit Umweltinformationen betroffen sind, handelt es sich hierbei um eine einfache Anfrage nach Â§5 (2) UIG NRW.
 
-Sollte die Aktenauskunft Ihres Erachtens gebührenpflichtig sein, bitte ich Sie, mir dies vorab mitzuteilen und dabei die Höhe der Kosten anzugeben.
+Sollte die Aktenauskunft Ihres Erachtens gebÃ¼hrenpflichtig sein, bitte ich Sie, mir dies vorab mitzuteilen und dabei die HÃ¶he der Kosten anzugeben.
 
-Ich verweise auf § 5 Abs. 2 IFG NRW, § 2 UIG NRW und bitte Sie, mir die erbetenen Informationen unverzüglich, spätestens nach Ablauf eines Monats zugänglich zu machen.
+Ich verweise auf Â§ 5 Abs. 2 IFG NRW, Â§ 2 UIG NRW und bitte Sie, mir die erbetenen Informationen unverzÃ¼glich, spÃ¤testens nach Ablauf eines Monats zugÃ¤nglich zu machen.
 
-Sollten Sie für diesen Antrag nicht zuständig sein, möchte ich Sie bitten, ihn an die zuständige Behörde weiterzuleiten und mich darüber zu unterrichten.
+Sollten Sie fÃ¼r diesen Antrag nicht zustÃ¤ndig sein, mÃ¶chte ich Sie bitten, ihn an die zustÃ¤ndige BehÃ¶rde weiterzuleiten und mich darÃ¼ber zu unterrichten.
 
-Nach §5 Abs. 1 Satz 5 IFG NRW bitte ich Sie um eine Antwort in elektronischer Form (E-Mail). Gegebenfalls behalte ich mir vor, nach Eingang Ihrer Auskünfte um weitere ergänzende Auskünfte nachzusuchen.
+Nach Â§5 Abs. 1 Satz 5 IFG NRW bitte ich Sie um eine Antwort in elektronischer Form (E-Mail). Gegebenfalls behalte ich mir vor, nach Eingang Ihrer AuskÃ¼nfte um weitere ergÃ¤nzende AuskÃ¼nfte nachzusuchen.
 
-Ich möchte Sie um Empfangsbestätigung bitten und danke Ihnen für Ihre Mühe!
+Ich mÃ¶chte Sie um EmpfangsbestÃ¤tigung bitten und danke Ihnen fÃ¼r Ihre MÃ¼he!
 
 
-Mit freundlichen Grüßen
+Mit freundlichen GrÃ¼ÃŸen
 
 Antragsteller/in Antragsteller/in
 <<E-Mail-Adresse>>"
 
 Antwort
 
-"Polizeipräsidium Münster Direktion Verkehr Führungsstelle, SG. 3 AZ.: 57.03.18 Auskunftsersuchen nach dem Informationsfreiheitsgesetz NRW Ihr Schreiben vom 13.08.2015 Sehr geehrt er Herr *****, gemäß Ihrer Anfrage vom 13.08.2015 übersende ich Ihnen in der Anlage die gewünschten Rohdaten der Verkehrsunfallstatistik Münster der Jahre 2007 bis 2014 im Excel-Format. Bitte beachten Sie, dass sich das Layout der Tabellen im Laufe der Erfassungsjahre geringfügig verändert hat. Aufgrund der Datenmenge übersende ich Ihnen die Daten in zwei E-Mails zu 4 Dateien. Aufgrund der Überschriften in den Tabellen sind die Daten selbsterklärend. Sollten sich dennoch Fragen ergeben, stehen Ihnen Herr Schetter und ich ( Tel.: 0251-275-1540 / 1535) selbstverständlich zur Verfügung. Mit freundlichen Grüßen 
-i.A. **** POKin"
+"PolizeiprÃ¤sidium MÃ¼nster Direktion Verkehr FÃ¼hrungsstelle, SG. 3 AZ.: 57.03.18 Auskunftsersuchen nach dem Informationsfreiheitsgesetz NRW Ihr Schreiben vom 13.08.2015 Sehr geehrt er Herr xxxxx, gemÃ¤ÃŸ Ihrer Anfrage vom 13.08.2015 Ã¼bersende ich Ihnen in der Anlage die gewÃ¼nschten Rohdaten der Verkehrsunfallstatistik MÃ¼nster der Jahre 2007 bis 2014 im Excel-Format. Bitte beachten Sie, dass sich das Layout der Tabellen im Laufe der Erfassungsjahre geringfÃ¼gig verÃ¤ndert hat. Aufgrund der Datenmenge Ã¼bersende ich Ihnen die Daten in zwei E-Mails zu 4 Dateien. Aufgrund der Ãœberschriften in den Tabellen sind die Daten selbsterklÃ¤rend. Sollten sich dennoch Fragen ergeben, stehen Ihnen Herr Schetter und ich ( Tel.: 0251-275-1540 / 1535) selbstverstÃ¤ndlich zur VerfÃ¼gung. Mit freundlichen GrÃ¼ÃŸen 
+i.A. xxxx POKin"
