@@ -34,7 +34,7 @@ OffeneDaten.de wird von der Open Knowledge Foundation Deutschland betrieben. Lei
  - [Sportstätten Münster](https://offenedaten.de/dataset/muenster-sportst-tten-in-m-nster)
 
 
-### Datenquellen aus Münster
+### Datenquellen aus/über Münster
 
 Zu den hier verlinkten Datensätzen sind die Nutzungsbedingungen teilweise unklar.
 
@@ -50,6 +50,7 @@ Zu den hier verlinkten Datensätzen sind die Nutzungsbedingungen teilweise unkla
 - Trinkwasser Werte (PDF) [2013](https://www.stadtwerke-muenster.de/fileadmin/stwms/trinkwasser/produkte/dokumente/SWMS_Trinkwasseranalyse_2013.pdf), [2014](https://www.stadtwerke-muenster.de/fileadmin/stwms/trinkwasser/produkte/dokumente/SWMS_Trinkwasseranalyse_2014.pdf)
 - [Ergebnisse der Bürgerumfragen, zuletzt 2015](http://www.stadt-muenster.de/stadtentwicklung/kommunale-umfragen.html)
 - [Sehr detailliertes Dokment zum Kanalausbau (2005)](http://www.wsd-w.wsv.de/aktuelles/Planfeststellung/Planfeststellungsbeschluesse/Dateien_DEK_Los_11_und_12/Mappe2/_Erlaeuterungsbericht_UVU_Teil_4.1.pdf)
+- [Opensensemap](http://www.opensensemap.org/) - Ein paar Senseboxen stehen auch in Münster, anscheinend insbesondere an der Uni
 
 ### Gesamtdeutschland und Europa
 - [Open Data Index von der OKF](https://index.okfn.org/country/overview/Germany/)
