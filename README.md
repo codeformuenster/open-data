@@ -55,18 +55,36 @@ Zu den hier verlinkten Datensätzen sind die Nutzungsbedingungen teilweise unkla
 - [Open Data Index von der OKF](https://index.okfn.org/country/overview/Germany/)
 - [Geoportal.de](http://www.geoportal.de/DE/Geoportal/geoportal.html?lang=de)
 - [INSPIRE Geoportal](http://inspire-geoportal.ec.europa.eu/discovery/)
+- [Offenes Datenportal der Europäischen Union](https://open-data.europa.eu)
+
 
 # Datenvisualisierungen
 
+## Inspiration
 Die meisten dieser Webseiten sind nicht Münster-spezifisch, aber dennoch sehr schöne Beispiele wie man Datensätze zugänglich und teils auch interaktiv visualisieren kann. Gute Inspirationsquellen.
 
 - [Datenjournalismus bei der Berliner Morgenpost. Fantastisch umgesetzte Web-Anwendungen.](http://www.morgenpost.de/interaktiv/)
 - [opendatacity.de hat ebenfalls einige aufwändig visualisierte Projekte realisiert](https://opendatacity.de/)
 - [Creativebloq hat einen schönen post mit Datenvisualisierungstools, wenn man die Werbung weggeklickt hat](http://www.creativebloq.com/design-tools/data-visualization-712402)
 
-## Ideen für Münster
-- http://www.istderberschonfertig.de/ <- das könnte man für den Kanalausbau umsetzen, oder für den Hauptbahnhof
+## Tools
 
+- Webseiten scrapen
+  - https://www.quora.com/What-is-the-best-alternative-to-Kimono-web-scraper-by-Kimonolabs - Dieser Artikel auf Quora listet jede Menge Alternativen zu Kimono Labs auf (die im Februar 2016 ihren Dienst eingestellt haben):
+  - http://import.io - Import.io
+  - http://scrapinghub.com/portia/ - Portia
+- Daten aufbereiten
+  - https://scraperwiki.com/ bzw. https://pdftables.com/ - Daten aus PDF extrahieren  
+  - http://openrefine.org/ - Datenformate konvertieren (Desktop App)
+  - https://www.parsehub.com/
+- Daten visualisieren
+  - http://raw.densitydesign.org/ - "RAW" -> CSV Datei reinkopieren, Visualisierung auswählen, herumspielen.
+- API erstellen
+  - http://www.apifydoc.com/ - PHP Anwendung, mit der man einfach APIs erstellen kann
+
+# Ideen für Münster
+- http://www.istderberschonfertig.de/ Sehr hübsche One-Page-App, die darstellt, wie weit der neue Flughafen in Berlin schon ist, bzw. wie sehr er hinter dem Zeitplan hinterherhint <- das könnte man für den Kanalausbau umsetzen, oder für den Hauptbahnhof.
+- https://app.instagis.com/infographics => Instagis. Gib eine Adresse in den USA ein, und bekomme eine Populations-Infografik angezeigt. Mit den Stadteilbriefen könnte man wahrscheinlich etwas ähnliches hinbekommen.
 
 
 # Hintergrundinformationen zum Thema Open Government
