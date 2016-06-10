@@ -1,12 +1,10 @@
-Die Rohdaten der Verkehrsunfallstatistik Münster der Jahre 2007-2014 als Excel-Dateien.
-
-
+# Die Rohdaten der Verkehrsunfallstatistik Münster der Jahre 2007-2014 als Excel-Dateien.
 
 Text der Mailanfrage über www.fragdenstaat.de
+```
+Antrag nach dem Informationsfreiheitsgesetz NRW, UIG NRW, VIG
 
-"Antrag nach dem Informationsfreiheitsgesetz NRW, UIG NRW, VIG
-
-Sehr geehrte Damen und Herren, 
+Sehr geehrte Damen und Herren,
 
 bitte senden Sie mir Folgendes zu:
 
@@ -34,9 +32,11 @@ Ich möchte Sie um Empfangsbestätigung bitten und danke Ihnen für Ihre Mühe!
 Mit freundlichen Grüßen
 
 Antragsteller/in Antragsteller/in
-<<E-Mail-Adresse>>"
+<<E-Mail-Adresse>>
+```
 
 Antwort
 
-"Polizeipräsidium Münster Direktion Verkehr Führungsstelle, SG. 3 AZ.: 57.03.18 Auskunftsersuchen nach dem Informationsfreiheitsgesetz NRW Ihr Schreiben vom 13.08.2015 Sehr geehrt er Herr xxxxx, gemäß Ihrer Anfrage vom 13.08.2015 übersende ich Ihnen in der Anlage die gewünschten Rohdaten der Verkehrsunfallstatistik Münster der Jahre 2007 bis 2014 im Excel-Format. Bitte beachten Sie, dass sich das Layout der Tabellen im Laufe der Erfassungsjahre geringfügig verändert hat. Aufgrund der Datenmenge übersende ich Ihnen die Daten in zwei E-Mails zu 4 Dateien. Aufgrund der Überschriften in den Tabellen sind die Daten selbsterklärend. Sollten sich dennoch Fragen ergeben, stehen Ihnen Herr Schetter und ich ( Tel.: 0251-275-1540 / 1535) selbstverständlich zur Verfügung. Mit freundlichen Grüßen 
-i.A. xxxx POKin"
+Polizeipräsidium Münster Direktion Verkehr Führungsstelle, SG. 3 AZ.: 57.03.18 Auskunftsersuchen nach dem Informationsfreiheitsgesetz NRW Ihr Schreiben vom 13.08.2015 Sehr geehrt er Herr xxxxx, gemäß Ihrer Anfrage vom 13.08.2015 übersende ich Ihnen in der Anlage die gewünschten Rohdaten der Verkehrsunfallstatistik Münster der Jahre 2007 bis 2014 im Excel-Format. Bitte beachten Sie, dass sich das Layout der Tabellen im Laufe der Erfassungsjahre geringfügig verändert hat. Aufgrund der Datenmenge übersende ich Ihnen die Daten in zwei E-Mails zu 4 Dateien. Aufgrund der Überschriften in den Tabellen sind die Daten selbsterklärend. Sollten sich dennoch Fragen ergeben, stehen Ihnen Herr Schetter und ich ( Tel.: 0251-275-1540 / 1535) selbstverständlich zur Verfügung. Mit freundlichen Grüßen
+i.A. xxxx POKin
+```
