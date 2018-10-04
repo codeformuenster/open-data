@@ -8,6 +8,10 @@ forum: http://forum.codeformuenster.org/t/spielplatz-visualisierung/31
 
 Diese Seite soll einen Überblick über verfügbare offene Daten für Münster (westf.) geben. Änderungen werden gerne per Pull Request angenommen. Alle Angaben ohne Gewähr.
 
+## Offizielle Münster Open Data Seite (Seit Oktober 2018)
+
+https://www.stadt-muenster.de/open-data.html
+
 ## Open Data Portale
 
 Als Startpunkt werden zunächst die großen überregionalen Open Data Portale aufgelistet, die Datensätze vom Land/Bund zur Stadt Münster enthalten:
