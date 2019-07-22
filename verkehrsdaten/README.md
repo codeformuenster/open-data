@@ -5,9 +5,9 @@ Wenn in der Liste nicht mit "(OD)" markiert, dann sind diese Daten sind zwar üb
 
 * Freie Parkplätze - https://www.stadt-muenster.de/tiefbauamt/parkleitsystem/
 * E-Ladesäulen für Autos
-** Statische Liste der Stadtwerke https://www.stadtwerke-muenster.de/privatkunden/strom/alle-stromprodukte/e-mobilitaet-oekostrom-tanken/tankstellen.html
-** "Going Electric" statische Liste (crowdsourced) https://www.goingelectric.de/stromtankstellen/Deutschland/Muenster/
-** "Lemnet" mit Möglichkeit der Live-Status-Abfrage https://lemnet.org/de/map/?destination=m%C3%BCnster
+  * Statische Liste der Stadtwerke https://www.stadtwerke-muenster.de/privatkunden/strom/alle-stromprodukte/e-mobilitaet-oekostrom-tanken/tankstellen.html
+  * "Going Electric" statische Liste (crowdsourced) https://www.goingelectric.de/stromtankstellen/Deutschland/Muenster/
+  * "Lemnet" mit Möglichkeit der Live-Status-Abfrage https://lemnet.org/de/map/?destination=m%C3%BCnster
 * Ergebnisse des "Fahrrad Mängelmelder" - https://www.leezenstadt.de/melder/
 * Stadtteilauto Carsharing Stationen (über Cambio API) https://cwapi.cambio-carsharing.com/pub/MST/stations
 * Bushaltestellen, Ticket-Verkaufsstellen, Taxihalteplätze, Umweltzonen, Parkzonen, etc. sind im digitalen Münster-Stadtplan über das Menü "Verkehr" auf der linken Seite darstellbar: https://geo.stadt-muenster.de/webgis/application/Stadtplan
