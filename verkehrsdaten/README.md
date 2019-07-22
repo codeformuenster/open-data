@@ -32,10 +32,10 @@ FAHRRAD
 * (OSM) Taxistände https://www.flosm.de/html/POI-Karte.html?lat=51.9596803&lon=7.61031320&r=3596.7265&st=1&sw=taxi
 
 SONSTIGE
+* Luftwerte: Live an der Meßstation in Münster-Geist: https://www.lanuv.nrw.de/fileadmin/lanuv/luft/temes/heut/MSGE.htm
+* Lärmbelastung an den Straßen https://geo.stadt-muenster.de/umweltkataster
 * Reitwege https://geo.stadt-muenster.de/webgis/reitwege/
 * E-Roller => Betreiber "Tier" fragen
-* Lärmbelastung an Straßen?
-* Luftwerte: Stickoxide, etc?
 
 
 ## Ergebnisse der Fahrrad- und KFZ-Zählung
