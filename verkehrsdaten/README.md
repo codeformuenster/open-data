@@ -39,6 +39,10 @@ SONSTIGE
 
 
 ## Ergebnisse der Fahrrad- und KFZ-Zählung
-Siehe Dateien in den Unterverzeichnissen. Für die Verkehrsdaten mit Stand 2017 (Fahrrad- und Kfz-Zählungen) gilt angeblich (zu verifizerieren!): \
+Siehe Dateien in den Unterverzeichnissen. 
+Die Verkehrsdaten der Jahre 2015 und 2016 (Fahrrad- und Kfz-Zählungen) wurden zum Münsterhack 2017 mit der folgenden Lizenz veröffentlicht : \
 Datenquelle: Stadt Münster\
 [Datenlizenz Deutschland – Namensnennung – Version 2.0](http://www.govdata.de/dl-de/by-2-0) (oder [diese pdf-Datei](kfz/doc/Stadt_MS_OpenData_Datenlizenz_Deutschland.pdf))
+
+Alle weiteren Verkehrsdaten in den Unterverzeichnissen stehen nicht unter einer freien Lizenz.
+Die Daten der Verkehrszählung sind außerdem auf der Internsetseite "Verkehr in Zahlen" der Stadt Münster abrufbar: https://www.stadt-muenster.de/verkehrsplanung/verkehr-in-zahlen.html
