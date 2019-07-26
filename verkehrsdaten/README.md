@@ -27,7 +27,8 @@ FAHRRAD
 * Bushaltestellen, Ticket-Verkaufsstellen, Umweltzonen, Parkzonen, etc. sind im digitalen Münster-Stadtplan über das Menü "Verkehr" auf der linken Seite darstellbar: https://geo.stadt-muenster.de/webgis/application/Stadtplan
 * Bahnhof Münster Lageplan, etc https://www.einkaufsbahnhof.de/muenster-westf-hauptbahnhof/lageplan/
 * (OD) Deutsche Bahn Stationen und weitere DB-relevante Informationen https://data.deutschebahn.com/dataset?groups=datasets
-* (OD) ÖPNV/Busliniendaten der Stadtwerke https://www.stadtwerke-muenster.de/privatkunden/busverkehr/fahrplaninfos/fahrplaene-netzplaene/open-data-gtfs.html
+* (OD) GTFS/Busliniendaten der Stadtwerke https://www.stadtwerke-muenster.de/privatkunden/busverkehr/fahrplaninfos/fahrplaene-netzplaene/open-data-gtfs.html
+* (OD) GTFS/Busliniendaten für die ganze Region NWL: VRR+NVR inkl Münster https://www.opendata-oepnv.de/organization/nwl
 * (OD) "Fernbus-Haltestellen" => Gibt nur die am Gleis 22, oder?
 * (OSM) Taxistände https://www.flosm.de/html/POI-Karte.html?lat=51.9596803&lon=7.61031320&r=3596.7265&st=1&sw=taxi
 
