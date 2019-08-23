@@ -11,11 +11,11 @@ AUTO
   * "Going Electric" statische Liste (crowdsourced) https://www.goingelectric.de/stromtankstellen/Deutschland/Muenster/
   * "Lemnet" mit Möglichkeit der Live-Status-Abfrage https://lemnet.org/de/map/?destination=m%C3%BCnster
 * Stadtteilauto Carsharing Stationen (über Cambio API) https://cwapi.cambio-carsharing.com/pub/MST/stations
-* (OD) Aktuelle Baustellen- und Aufgrabungsmeldungen https://www.stadt-muenster.de/open-data.html
+* (OD) Aktuelle Baustellen- und Aufgrabungsmeldungen https://www.stadt-muenster.de/open-data.html vorraussichtlich bald auch bei https://www.verkehr.nrw
 * (OSM) Geschwindkeitszonen, z.B. 30-Zonen: https://overpass-turbo.eu/s/KX6
 * (OSM) Tankstellen https://www.flosm.de/html/POI-Karte.html?lat=51.9372553&lon=7.60251804&r=15952.842&st=1&sw=fuel
 * (OSM) Blitzer https://www.flosm.de/html/POI-Karte.html?lat=51.9372553&lon=7.60251804&r=15952.842&st=0&sw=speedcamera
-* Live-Verkehrsbelastung auf den Straßen: Gibt es bei Google (nicht ganz billig)
+* Live-Verkehrsbelastung auf den Straßen: Interaktiv abrufbar bei https://www.verkehr.nrw (oder bei Google - nicht ganz billig)
 
 FAHRRAD
 * Fahrradverleihe https://www.stadt-muenster.de/tourismus/fahrradstadt/fahrradverleih.html (unvollständig)
