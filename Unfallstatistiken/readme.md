@@ -32,7 +32,7 @@ Text der [Mailanfrage über FragDenStaat](https://fragdenstaat.de/anfrage/rohdat
 > Mit freundlichen Grüßen
 > 
 > Antragsteller/in Antragsteller/in  
-> <<E-Mail-Adresse>>
+> &lt;&lt;E-Mail-Adresse&gt;&gt;
 
 
 Antwort:
