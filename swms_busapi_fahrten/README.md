@@ -10,6 +10,10 @@ wget -i swms_busapi_fahrten.txt
 
 Die Stadtwerke Münster GmbH ist hiermit als Urheber benannt.
 
+### Manche Dateien sind leer?!
+
+Ja, ende 2019 wurden keine Daten über die Live-Schnittstelle veröffentlicht. Die Dateien sind der Vollständigkeit halber trotzdem im Archiv.
+
 #### Weiterführende Links
 
 - [http://api.busradar.conterra.de/](http://api.busradar.conterra.de/)
